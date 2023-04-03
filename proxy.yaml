@@ -1,0 +1,43 @@
+payload:
+# 常用代理域名 
+
+  - DOMAIN-SUFFIX,feed43.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,wordpress.org
+  - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-SUFFIX,emojiall.com
+  - DOMAIN-SUFFIX,radxa.com
+  - DOMAIN-SUFFIX,radxa.co
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-KEYWORD,hanime1
+  - DOMAIN-KEYWORD,ikuuu
+  - DOMAIN-KEYWORD,summer-plus
+
+# 下载
+  - DOMAIN-SUFFIX,drfilestreambot.cf
+
+# 加密货币
+  - DOMAIN-SUFFIX,trustwallet.com
+  - DOMAIN-SUFFIX,bitkeep.top
+  - DOMAIN-SUFFIX,bitcoin.com
+  - DOMAIN-SUFFIX,bi123.co
+
+# 各种linux源
+  - DOMAIN-SUFFIX,debian.org    
+  - DOMAIN-SUFFIX,ubuntu.com   
+  - DOMAIN-SUFFIX,centos.org   
+  - DOMAIN-SUFFIX,fedoraproject.org     
+  - DOMAIN-SUFFIX,opensuse.org 
+  - DOMAIN-SUFFIX,archlinux.org    
+  - DOMAIN-SUFFIX,osuosl.org   
+  - DOMAIN-SUFFIX,utah.edu    
+  - DOMAIN-SUFFIX,redhat.com  
+  - DOMAIN-SUFFIX,twaren.net  
+  - DOMAIN-SUFFIX,kali.org    
+  - DOMAIN-SUFFIX,alpinelinux.org   
+  - DOMAIN-SUFFIX,freebsd.org 
+  - DOMAIN-SUFFIX,openbsd.org 
+  - DOMAIN-SUFFIX,netbsd.org
