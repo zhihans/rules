@@ -19,6 +19,7 @@ payload:
   - DOMAIN-KEYWORD,hanime1
   - DOMAIN-KEYWORD,ikuuu
   - DOMAIN-KEYWORD,summer-plus
+  - DOMAIN-SUFFIX,medpartner.club
 
 # 下载
   - DOMAIN-SUFFIX,drfilestreambot.cf
