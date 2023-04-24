@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
   - DOMAIN-SUFFIX,freefrp.net
-  - DOMAIN,api.github.com
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
