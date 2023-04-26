@@ -1,3 +1,4 @@
 payload:
 # 不应该拦截列表
-  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
+  - DOMAIN,wtradv.market.xiaomi.com
+  - DOMAIN,privacyportal.onetrust.com
