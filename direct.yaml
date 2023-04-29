@@ -1,77 +1,78 @@
-
 payload:
-DOMAIN-SUFFIX,api.v1.mk
-DOMAIN-SUFFIX,sub.d1.mk
-DOMAIN-SUFFIX,api.tsutsu.one
-DOMAIN-SUFFIX,v.id9.cc
-DOMAIN-SUFFIX,www.nameless13.com
-DOMAIN-SUFFIX,sub.xeton.dev
-DOMAIN-SUFFIX,api.wcc.best
-DOMAIN-SUFFIX,api.dler.io
-DOMAIN-SUFFIX,cdn.jsdeliver.ml
-DOMAIN-SUFFIX,freefrp.net
+# 常用直连域名
+# api
+  - DOMAIN-SUFFIX,api.v1.mk
+  - DOMAIN-SUFFIX,sub.d1.mk
+  - DOMAIN-SUFFIX,api.tsutsu.one
+  - DOMAIN-SUFFIX,v.id9.cc
+  - DOMAIN-SUFFIX,www.nameless13.com
+  - DOMAIN-SUFFIX,sub.xeton.dev
+  - DOMAIN-SUFFIX,api.wcc.best
+  - DOMAIN-SUFFIX,api.dler.io
+  - DOMAIN-SUFFIX,cdn.jsdeliver.ml
+  - DOMAIN-SUFFIX,freefrp.net
 
 # 网站
-DOMAIN-SUFFIX,5iux.cn
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,beatstage.com
-DOMAIN-SUFFIX,tool.lu
-DOMAIN-KEYWORD,oracle 
-DOMAIN-KEYWORD,freenom
-DOMAIN-KEYWORD,diyibanzhu
-DOMAIN-KEYWORD,bbs.cdbook
-DOMAIN,clash.razord.top
-DOMAIN,picx.xpoet.cn
-
+  - DOMAIN-SUFFIX,5iux.cn
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,beatstage.com
+  - DOMAIN-SUFFIX,tool.lu
+  - DOMAIN-KEYWORD,oracle 
+  - DOMAIN-KEYWORD,freenom
+  - DOMAIN-KEYWORD,diyibanzhu
+  - DOMAIN-KEYWORD,bbs.cdbook
+  - DOMAIN,clash.razord.top
+  - DOMAIN,picx.xpoet.cn
+  
 # 视频
-DOMAIN-SUFFIX,gmtv1.xyz
+  - DOMAIN-SUFFIX,gmtv1.xyz
 
 # 下载
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,gproxy.ml
-DOMAIN-SUFFIX,dockerproxy.com
-DOMAIN-SUFFIX,dockerproxy.ml
-
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,gproxy.ml
+  - DOMAIN-SUFFIX,dockerproxy.com
+  - DOMAIN-SUFFIX,dockerproxy.ml
+  
 # Github下载加速的一些域名  
-DOMAIN-SUFFIX,gh2233.ml
-DOMAIN-SUFFIX,gh.api.99988866.xyz
-DOMAIN-SUFFIX,gh.ddlc.top
-DOMAIN-SUFFIX,gh2.yanqishui.work
-DOMAIN-SUFFIX,ghdl.feizhuqwq.cf
-DOMAIN-SUFFIX,gh-proxy-misakano7545.koyeb.app
-DOMAIN-SUFFIX,gh.flyinbug.top
-DOMAIN-SUFFIX,github.91chi.fun
-DOMAIN-SUFFIX,proxy.zyun.vip
-DOMAIN-SUFFIX,git.xfj0.cn
-DOMAIN-SUFFIX,gh.con.sh
-DOMAIN-SUFFIX,ghps.cc
-DOMAIN-SUFFIX,cors.isteed.cc
-DOMAIN-SUFFIX,cdn.githubjs.cf
-DOMAIN-SUFFIX,hub.gitmirror.com
-DOMAIN-SUFFIX,download.njuu.cf
-DOMAIN-SUFFIX,download.yzuu.cf
-DOMAIN-SUFFIX,download.nuaa.cf
-DOMAIN-SUFFIX,download.fastgit.org
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,kgithub.com
-DOMAIN-SUFFIX,github.moeyy.xyz
-DOMAIN-SUFFIX,hub.njuu.cf
-DOMAIN-SUFFIX,hub.yzuu.cf
-DOMAIN-SUFFIX,hub.nuaa.cf
-DOMAIN-SUFFIX,git.zhlh6.cn
-DOMAIN-SUFFIX,raw.iqiq.io
-DOMAIN-SUFFIX,fastly.jsdelivr.net
-DOMAIN-SUFFIX,cdn.staticaly.com
-DOMAIN-SUFFIX,ghproxy.net
-DOMAIN-SUFFIX,raw.kgithub.com
-DOMAIN-SUFFIX,raw.fastgit.org
-DOMAIN-SUFFIX,gcore.jsdelivr.net
-DOMAIN-SUFFIX,cdn.jsdelivr.ren
-
+  - DOMAIN-SUFFIX,gh2233.ml
+  - DOMAIN-SUFFIX,gh.api.99988866.xyz
+  - DOMAIN-SUFFIX,gh.ddlc.top
+  - DOMAIN-SUFFIX,gh2.yanqishui.work
+  - DOMAIN-SUFFIX,ghdl.feizhuqwq.cf
+  - DOMAIN-SUFFIX,gh-proxy-misakano7545.koyeb.app
+  - DOMAIN-SUFFIX,gh.flyinbug.top
+  - DOMAIN-SUFFIX,github.91chi.fun
+  - DOMAIN-SUFFIX,proxy.zyun.vip
+  - DOMAIN-SUFFIX,git.xfj0.cn
+  - DOMAIN-SUFFIX,gh.con.sh
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,cors.isteed.cc
+  - DOMAIN-SUFFIX,cdn.githubjs.cf
+  - DOMAIN-SUFFIX,hub.gitmirror.com
+  - DOMAIN-SUFFIX,download.njuu.cf
+  - DOMAIN-SUFFIX,download.yzuu.cf
+  - DOMAIN-SUFFIX,download.nuaa.cf
+  - DOMAIN-SUFFIX,download.fastgit.org
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,kgithub.com
+  - DOMAIN-SUFFIX,github.moeyy.xyz
+  - DOMAIN-SUFFIX,hub.njuu.cf
+  - DOMAIN-SUFFIX,hub.yzuu.cf
+  - DOMAIN-SUFFIX,hub.nuaa.cf
+  - DOMAIN-SUFFIX,git.zhlh6.cn
+  - DOMAIN-SUFFIX,raw.iqiq.io
+  - DOMAIN-SUFFIX,fastly.jsdelivr.net
+  - DOMAIN-SUFFIX,cdn.staticaly.com
+  - DOMAIN-SUFFIX,ghproxy.net
+  - DOMAIN-SUFFIX,raw.kgithub.com
+  - DOMAIN-SUFFIX,raw.fastgit.org
+  - DOMAIN-SUFFIX,gcore.jsdelivr.net
+  - DOMAIN-SUFFIX,cdn.jsdelivr.ren
+  
 # 一些常用的端口
-DST-PORT,21
-DST-PORT,22
-DST-PORT,1111
-DST-PORT,2222
-DST-PORT,3333
-DST-PORT,8022
+  - DST-PORT,21
+  - DST-PORT,22
+  - DST-PORT,1111
+  - DST-PORT,2222
+  - DST-PORT,3333
+  - DST-PORT,8022
