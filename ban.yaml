@@ -1,1 +1,5 @@
+payload:
+    - AND,((NETWORK,udp),(DST-PORT,443),(GEOSITE,youtube)),REJECT
+    - AND,((NETWORK,udp),(DST-PORT,443),(GEOSITE,instagram)),REJECT
+    
 
