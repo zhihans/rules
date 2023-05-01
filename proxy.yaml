@@ -46,5 +46,3 @@ payload:
   - DOMAIN-SUFFIX,freebsd.org 
   - DOMAIN-SUFFIX,openbsd.org 
   - DOMAIN-SUFFIX,netbsd.org
-# 测速
-  - AND,((DOMAIN-KEYWORD,speedtest),(NOT,((DOMAIN-SUFFIX,cn))))
