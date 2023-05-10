@@ -3,7 +3,9 @@ payload:
 # yacd面板
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
-  
+# speedtest.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+
 # 常用代理域名 
   - DOMAIN-SUFFIX,feed43.com
   - DOMAIN-SUFFIX,vercel.app
