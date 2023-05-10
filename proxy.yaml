@@ -4,10 +4,11 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
 # speedtest.net
-  - DOMAIN,b.cdnst.net
-  - DOMAIN-SUFFIX,speed.misaka.one
-  - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN-SUFFIX,ooklaserver.net  
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN,b.cdnst.net  
   - AND,((DOMAIN-KEYWORD,speedtest),(NOT,((DOMAIN-SUFFIX,cn))))  
   
 # 常用代理域名 
