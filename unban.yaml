@@ -1,6 +1,3 @@
 payload:
 # 不应该拦截列表
-  - DOMAIN,wtradv.market.xiaomi.com
-#  - DOMAIN,privacyportal.onetrust.com
-#  - DOMAIN,vcdnb.huoying666.com
-#  - DOMAIN,pubads.g.doubleclick.net
+  #- DOMAIN,wtradv.market.xiaomi.com
