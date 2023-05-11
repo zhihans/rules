@@ -3,4 +3,4 @@ payload:
   - DOMAIN,wtradv.market.xiaomi.com
   - DOMAIN,privacyportal.onetrust.com
   - DOMAIN,vcdnb.huoying666.com
-  - DOMAIN,al.p2p.huya.com
+  - DOMAIN-SUFFIX,huya.com
