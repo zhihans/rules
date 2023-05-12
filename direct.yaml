@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,api.wcc.best
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
-  - DOMAIN-SUFFIX,freefrp.net
+#   - DOMAIN-SUFFIX,freefrp.net
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
@@ -23,9 +23,6 @@ payload:
   - DOMAIN-KEYWORD,bbs.cdbook
   - DOMAIN,clash.razord.top
   - DOMAIN,picx.xpoet.cn
-  
-# 视频
-  - DOMAIN-SUFFIX,gmtv1.xyz
 
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
@@ -70,9 +67,9 @@ payload:
   - DOMAIN-SUFFIX,cdn.jsdelivr.ren
   
 # 一些常用的端口
-  - DST-PORT,21
-  - DST-PORT,22
-  - DST-PORT,1111
-  - DST-PORT,2222
-  - DST-PORT,3333
-  - DST-PORT,8022
+#   - DST-PORT,21
+#   - DST-PORT,22
+#   - DST-PORT,1111
+#   - DST-PORT,2222
+#   - DST-PORT,3333
+#   - DST-PORT,8022
