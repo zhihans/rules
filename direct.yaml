@@ -67,7 +67,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.jsdelivr.ren
 
 # TV视频
-  - DOMAIN-SUFFIX,wasu.tv  
+#  - DOMAIN-SUFFIX,wasu.tv  
 
 # 一些常用的端口
 #   - DST-PORT,21
