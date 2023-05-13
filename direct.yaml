@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,raw.fastgit.org
   - DOMAIN-SUFFIX,gcore.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.jsdelivr.ren
+
 # TV视频
   - DOMAIN-SUFFIX,wasu.tv  
 
