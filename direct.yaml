@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,api.wcc.best
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
+#   - DOMAIN-SUFFIX,freefrp.net
   - DOMAIN-SUFFIX,mayiyiyi.com
 
 # 网站
