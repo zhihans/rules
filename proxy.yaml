@@ -1,6 +1,7 @@
 payload:
 
 # yacd面板
+  - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
 # speedtest.net
