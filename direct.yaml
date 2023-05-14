@@ -10,20 +10,17 @@ payload:
   - DOMAIN-SUFFIX,api.wcc.best
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
-#   - DOMAIN-SUFFIX,freefrp.net
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
-  - DOMAIN-SUFFIX,cloudflare.com
+#   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,beatstage.com
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-KEYWORD,oracle 
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
-  - DOMAIN,clash.razord.top
-  - DOMAIN,picx.xpoet.cn
-
+  
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,gproxy.ml
