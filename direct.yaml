@@ -1,14 +1,6 @@
 payload:
 # 常用直连域名
 # api
-  - DOMAIN-SUFFIX,api.v1.mk
-  - DOMAIN-SUFFIX,sub.d1.mk
-  - DOMAIN-SUFFIX,api.tsutsu.one
-  - DOMAIN-SUFFIX,v.id9.cc
-  - DOMAIN-SUFFIX,www.nameless13.com
-  - DOMAIN-SUFFIX,sub.xeton.dev
-  - DOMAIN-SUFFIX,api.wcc.best
-  - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
 
 # 网站
