@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,api.wcc.best
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
-  - DOMAIN,melusinesuki.site
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
