@@ -66,6 +66,9 @@ payload:
 # TV视频
 #  - DOMAIN-SUFFIX,wasu.tv  
 
+# 哔哩哔哩漫游
+  - melusinesuki.site
+
 # 一些常用的端口
 #   - DST-PORT,21
 #   - DST-PORT,22
