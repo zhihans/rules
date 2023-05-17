@@ -2,7 +2,8 @@ payload:
 # 常用直连域名
 # api
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
-
+# github
+  - DOMAIN,github.com
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
 #   - DOMAIN-SUFFIX,cloudflare.com
