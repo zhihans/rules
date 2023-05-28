@@ -41,18 +41,18 @@ payload:
   - DOMAIN-SUFFIX,bi123.co
 
 # 各种linux源
-  - DOMAIN-SUFFIX,debian.org    
-  - DOMAIN-SUFFIX,ubuntu.com   
-  - DOMAIN-SUFFIX,centos.org   
-  - DOMAIN-SUFFIX,fedoraproject.org     
-  - DOMAIN-SUFFIX,opensuse.org 
-  - DOMAIN-SUFFIX,archlinux.org    
-  - DOMAIN-SUFFIX,osuosl.org   
-  - DOMAIN-SUFFIX,utah.edu    
-  - DOMAIN-SUFFIX,redhat.com  
-  - DOMAIN-SUFFIX,twaren.net  
-  - DOMAIN-SUFFIX,kali.org    
-  - DOMAIN-SUFFIX,alpinelinux.org   
-  - DOMAIN-SUFFIX,freebsd.org 
-  - DOMAIN-SUFFIX,openbsd.org 
-  - DOMAIN-SUFFIX,netbsd.org
+#  - DOMAIN-SUFFIX,debian.org    
+#  - DOMAIN-SUFFIX,ubuntu.com   
+#  - DOMAIN-SUFFIX,centos.org   
+#  - DOMAIN-SUFFIX,fedoraproject.org     
+#  - DOMAIN-SUFFIX,opensuse.org 
+#  - DOMAIN-SUFFIX,archlinux.org    
+#  - DOMAIN-SUFFIX,osuosl.org   
+#  - DOMAIN-SUFFIX,utah.edu    
+#  - DOMAIN-SUFFIX,redhat.com  
+#  - DOMAIN-SUFFIX,twaren.net  
+#  - DOMAIN-SUFFIX,kali.org    
+#  - DOMAIN-SUFFIX,alpinelinux.org   
+#  - DOMAIN-SUFFIX,freebsd.org 
+#  - DOMAIN-SUFFIX,openbsd.org 
+#  - DOMAIN-SUFFIX,netbsd.org
