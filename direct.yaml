@@ -64,7 +64,6 @@ payload:
 #   - DST-PORT,8022
 
 # 时间同步
-  - DOMAIN-SUFFIX,lan
   - DOMAIN,time.windows.com
   - DOMAIN,time.nist.gov
   - DOMAIN,time.apple.com
