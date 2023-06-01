@@ -64,71 +64,71 @@ payload:
 #   - DST-PORT,8022
 
 # 时间同步
-  - DOMAIN-SUFFIX, lan
-  - DOMAIN, time.windows.com
-  - DOMAIN, time.nist.gov
-  - DOMAIN, time.apple.com
-  - DOMAIN, time.asia.apple.com
-  - DOMAIN-SUFFIX, ntp.org.cn
-  - DOMAIN-SUFFIX, openwrt.pool.ntp.org
-  - DOMAIN, time1.cloud.tencent.com
-  - DOMAIN, time.ustc.edu.cn
-  - DOMAIN, pool.ntp.org
-  - DOMAIN, ntp.ubuntu.com
-  - DOMAIN, ntp.aliyun.com
-  - DOMAIN, ntp1.aliyun.com
-  - DOMAIN, ntp2.aliyun.com
-  - DOMAIN, ntp3.aliyun.com
-  - DOMAIN, ntp4.aliyun.com
-  - DOMAIN, ntp5.aliyun.com
-  - DOMAIN, ntp6.aliyun.com
-  - DOMAIN, ntp7.aliyun.com
-  - DOMAIN, time1.aliyun.com
-  - DOMAIN, time2.aliyun.com
-  - DOMAIN, time3.aliyun.com
-  - DOMAIN, time4.aliyun.com
-  - DOMAIN, time5.aliyun.com
-  - DOMAIN, time6.aliyun.com
-  - DOMAIN, time7.aliyun.com
-  - DOMAIN-SUFFIX, time.edu.cn
-  - DOMAIN, time1.apple.com
-  - DOMAIN, time2.apple.com
-  - DOMAIN, time3.apple.com
-  - DOMAIN, time4.apple.com
-  - DOMAIN, time5.apple.com
-  - DOMAIN, time6.apple.com
-  - DOMAIN, time7.apple.com
-  - DOMAIN, time1.google.com
-  - DOMAIN, time2.google.com
-  - DOMAIN, time3.google.com
-  - DOMAIN, time4.google.com
-  - DOMAIN-SUFFIX, 163.com
-  - DOMAIN-SUFFIX, music.163.com
-  - DOMAIN-SUFFIX, 126.net
-  - DOMAIN, musicapi.taihe.com
-  - DOMAIN, music.taihe.com
-  - DOMAIN, songsearch.kugou.com
-  - DOMAIN, trackercdn.kugou.com
-  - DOMAIN-SUFFIX, kuwo.cn
-  - DOMAIN, api-jooxtt.sanook.com
-  - DOMAIN, api.joox.com
-  - DOMAIN, joox.com
-  - DOMAIN, y.qq.com
-  - DOMAIN-SUFFIX, music.tc.qq.com
-  - DOMAIN, isure.stream.qqmusic.qq.com
-  - DOMAIN, dl.stream.qqmusic.qq.com
-  - DOMAIN-SUFFIX, aqqmusic.tc.qq.com
-  - DOMAIN-SUFFIX, xiami.com
-  - DOMAIN-SUFFIX, music.migu.cn
-  - DOMAIN, mobileoc.music.tc.qq.com
-  - DOMAIN-SUFFIX, msftconnecttest.com
-  - DOMAIN-SUFFIX, msftncsi.com
-  - DOMAIN, localhost.ptlogin2.qq.com
-  - DOMAIN-SUFFIX, srv.nintendo.net
-  - DOMAIN-SUFFIX, stun.playstation.net
-  - DOMAIN-SUFFIX, xboxlive.com
-  - DOMAIN-SUFFIX, golang.org
-  - DOMAIN-SUFFIX, sgcc.com.cn
-  - DOMAIN-SUFFIX, alicdn.com
-  - DOMAIN-SUFFIX, aliyuncs.com
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN,time.windows.com
+  - DOMAIN,time.nist.gov
+  - DOMAIN,time.apple.com
+  - DOMAIN,time.asia.apple.com
+  - DOMAIN-SUFFIX,ntp.org.cn
+  - DOMAIN-SUFFIX,openwrt.pool.ntp.org
+  - DOMAIN,time1.cloud.tencent.com
+  - DOMAIN,time.ustc.edu.cn
+  - DOMAIN,pool.ntp.org
+  - DOMAIN,ntp.ubuntu.com
+  - DOMAIN,ntp.aliyun.com
+  - DOMAIN,ntp1.aliyun.com
+  - DOMAIN,ntp2.aliyun.com
+  - DOMAIN,ntp3.aliyun.com
+  - DOMAIN,ntp4.aliyun.com
+  - DOMAIN,ntp5.aliyun.com
+  - DOMAIN,ntp6.aliyun.com
+  - DOMAIN,ntp7.aliyun.com
+  - DOMAIN,time1.aliyun.com
+  - DOMAIN,time2.aliyun.com
+  - DOMAIN,time3.aliyun.com
+  - DOMAIN,time4.aliyun.com
+  - DOMAIN,time5.aliyun.com
+  - DOMAIN,time6.aliyun.com
+  - DOMAIN,time7.aliyun.com
+  - DOMAIN-SUFFIX,time.edu.cn
+  - DOMAIN,time1.apple.com
+  - DOMAIN,time2.apple.com
+  - DOMAIN,time3.apple.com
+  - DOMAIN,time4.apple.com
+  - DOMAIN,time5.apple.com
+  - DOMAIN,time6.apple.com
+  - DOMAIN,time7.apple.com
+  - DOMAIN,time1.google.com
+  - DOMAIN,time2.google.com
+  - DOMAIN,time3.google.com
+  - DOMAIN,time4.google.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN,musicapi.taihe.com
+  - DOMAIN,music.taihe.com
+  - DOMAIN,songsearch.kugou.com
+  - DOMAIN,trackercdn.kugou.com
+  - DOMAIN-SUFFIX,kuwo.cn
+  - DOMAIN,api-jooxtt.sanook.com
+  - DOMAIN,api.joox.com
+  - DOMAIN,joox.com
+  - DOMAIN,y.qq.com
+  - DOMAIN-SUFFIX,music.tc.qq.com
+  - DOMAIN,isure.stream.qqmusic.qq.com
+  - DOMAIN,dl.stream.qqmusic.qq.com
+  - DOMAIN-SUFFIX,aqqmusic.tc.qq.com
+  - DOMAIN-SUFFIX,xiami.com
+  - DOMAIN-SUFFIX,music.migu.cn
+  - DOMAIN,mobileoc.music.tc.qq.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,srv.nintendo.net
+  - DOMAIN-SUFFIX,stun.playstation.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,sgcc.com.cn
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,aliyuncs.com
   
