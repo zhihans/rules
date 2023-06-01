@@ -64,6 +64,8 @@ payload:
 #   - DST-PORT,8022
 
 # 时间同步
+  - DOMAIN-KEYWORD,time
+  - DOMAIN-KEYWORD,ntp 
   - DOMAIN,time.windows.com
   - DOMAIN,time.nist.gov
   - DOMAIN,time.apple.com
