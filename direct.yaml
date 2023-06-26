@@ -12,7 +12,7 @@ payload:
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
-  - DOMAIN,picx.xpoet.cn
+
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,gproxy.ml
