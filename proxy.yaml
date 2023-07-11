@@ -1,5 +1,8 @@
 payload:
 
+# 调试
+  - DOMAIN,miuiver.com
+
 # yacd面板
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
