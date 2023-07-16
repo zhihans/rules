@@ -1,7 +1,7 @@
 payload:
 
 # 调试
-  - DOMAIN,miuiver.com
+  # - DOMAIN,miuiver.com
 
 # yacd面板
   - DOMAIN,clash.razord.top
