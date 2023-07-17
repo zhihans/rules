@@ -1,4 +1,7 @@
 payload:
+# 一些ip地址
+  - IP-CIDR,20.255.19.137/32
+
 # 常用直连域名
 # api
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
@@ -56,12 +59,12 @@ payload:
   - DOMAIN-SUFFIX,cdn.jsdelivr.ren
 
 # 一些常用的端口
-  - DST-PORT,21
-  - DST-PORT,22
-#   - DST-PORT,1111
-#   - DST-PORT,2222
-#   - DST-PORT,3333
-#   - DST-PORT,8022
+  # - DST-PORT,21
+  # - DST-PORT,22
+  # - DST-PORT,1111
+  # - DST-PORT,2222
+  # - DST-PORT,3333
+  # - DST-PORT,8022
 
 # 时间同步
   - DOMAIN-KEYWORD,time
