@@ -2,6 +2,10 @@ payload:
 # 一些ip地址
   - IP-CIDR,20.255.19.137/32
 
+# 机场
+  - DOMAIN,wujielink.xyz
+  - DOMAIN,xn--9kq018co2k.xyz
+
 # 常用直连域名
 # api
   - DOMAIN-SUFFIX,cdn.jsdeliver.ml
