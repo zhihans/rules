@@ -19,12 +19,11 @@ payload:
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
+  - DOMAIN,
 
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,gproxy.ml
   - DOMAIN-SUFFIX,dockerproxy.com
-  - DOMAIN-SUFFIX,dockerproxy.ml
   
 # Github下载加速的一些域名  
   - DOMAIN-SUFFIX,gh2233.ml
