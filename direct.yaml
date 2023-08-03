@@ -17,7 +17,8 @@ payload:
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
-  - DOMAIN,
+  - DOMAIN-SUFFIX,jm-comic3.art
+  - DOMAIN-SUFFIX,jm-comic2.art
 
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
