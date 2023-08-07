@@ -8,7 +8,8 @@ payload:
 
 # 常用直连域名
 # api
-  
+  - DOMAIN-KEYWORD,openfrp 
+
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
   - DOMAIN-SUFFIX,beatstage.com
