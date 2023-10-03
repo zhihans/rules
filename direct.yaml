@@ -20,6 +20,9 @@ payload:
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
 
+# 漫画
+  - DOMAIN,cn.baozimh.com
+
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,dockerproxy.com
