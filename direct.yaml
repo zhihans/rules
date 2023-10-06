@@ -55,7 +55,6 @@ payload:
   - DOMAIN-SUFFIX,hub.nuaa.cf
   - DOMAIN-SUFFIX,git.zhlh6.cn
   - DOMAIN-SUFFIX,raw.iqiq.io
-  - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.staticaly.com
   - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,raw.kgithub.com
