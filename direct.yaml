@@ -47,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,download.yzuu.cf
   - DOMAIN-SUFFIX,download.nuaa.cf
   - DOMAIN-SUFFIX,download.fastgit.org
-  - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,kgithub.com
   - DOMAIN-SUFFIX,github.moeyy.xyz
   - DOMAIN-SUFFIX,hub.njuu.cf
