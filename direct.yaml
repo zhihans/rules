@@ -20,6 +20,9 @@ payload:
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
 
+# 影视网站
+  - DOMAIN-KEYWORD,yunbtv
+  
 # 漫画
   - DOMAIN,cn.baozimh.com
 
