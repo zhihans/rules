@@ -30,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,dockerproxy.com
   - DOMAIN-SUFFIX,asnil.eu.org
-  - DOMAIN,docker.m.daocloud.io
 
 # Github下载加速的一些域名  
   - DOMAIN-SUFFIX,gh2233.ml
