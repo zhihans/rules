@@ -29,7 +29,7 @@ payload:
 # 下载
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,dockerproxy.com
-  - DOMAIN,gh.asnil.eu.org
+  - DOMAIN-SUFFIX,asnil.eu.org
 
 # Github下载加速的一些域名  
   - DOMAIN-SUFFIX,gh2233.ml
