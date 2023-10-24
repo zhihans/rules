@@ -11,9 +11,11 @@ payload:
   - DOMAIN-KEYWORD,openfrp 
 
 # Linux
-  - DOMAIN-SUFFIX,cdn.opensuse.org
-  - DOMAIN-SUFFIX,download.opensuse.org
-  - DOMAIN-SUFFIX,conncheck.opensuse.org
+  - DOMAIN-SUFFIX,opensuse.org
+  # - DOMAIN-SUFFIX,cdn.opensuse.org
+  # - DOMAIN-SUFFIX,download.opensuse.org
+  # - DOMAIN-SUFFIX,conncheck.opensuse.org
+  # - DOMAIN-SUFFIX,codecs.opensuse.org
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
