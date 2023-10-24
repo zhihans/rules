@@ -10,6 +10,11 @@ payload:
 # api
   - DOMAIN-KEYWORD,openfrp 
 
+# Linux
+  - DOMAIN-SUFFIX,cdn.opensuse.org
+  - DOMAIN-SUFFIX,download.opensuse.org
+  - DOMAIN-SUFFIX,conncheck.opensuse.org
+
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
   - DOMAIN-SUFFIX,beatstage.com
