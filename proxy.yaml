@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,medpartner.club
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,rockmods.net
+  - DOMAIN-SUFFIX,wallhaven.cc
 
 # 下载
   - DOMAIN-SUFFIX,drfilestreambot.cf
