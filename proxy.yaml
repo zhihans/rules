@@ -4,7 +4,7 @@ payload:
   # - DOMAIN,miuiver.com
 # 机场
   - DOMAIN,wujielink.xyz
-#  - DOMAIN,xn--rgv465a.xyz
+
 # yacd面板
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
