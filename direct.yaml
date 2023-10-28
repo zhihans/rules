@@ -3,8 +3,8 @@ payload:
   - IP-CIDR,20.255.19.137/32
 
 # 机场
-  - DOMAIN,wujielink.xyz
-  - DOMAIN,xn--rgv465a.xyz
+#  - DOMAIN,wujielink.xyz
+#  - DOMAIN,xn--rgv465a.xyz
 
 # 常用直连域名
 # api
