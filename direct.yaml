@@ -29,7 +29,9 @@ payload:
 
 # 影视网站
   - DOMAIN-KEYWORD,yunbtv
-  
+  - DOMAIN,cdn.wls911.com
+  - DOMAIN,pptv.1080tg.com
+
 # 漫画
   - DOMAIN,cn.baozimh.com
 
