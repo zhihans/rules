@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,rockmods.net
   - DOMAIN-SUFFIX,wallhaven.cc
+  - DOMAIN-SUFFIX,v2raya.org
 
 # 下载
   - DOMAIN-SUFFIX,drfilestreambot.cf
