@@ -9,7 +9,7 @@ payload:
 # 常用直连域名
 # api
   - DOMAIN-KEYWORD,openfrp 
-
+  - DOMAIN,o1098464.ingest.sentry.io
 # Linux
   # - DOMAIN-SUFFIX,opensuse.org
   # - DOMAIN-SUFFIX,cdn.opensuse.org
