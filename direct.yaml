@@ -2,8 +2,8 @@ payload:
 
 # 常用直连域名
 # api
-  - DOMAIN-KEYWORD,openfrp 
   - DOMAIN,o1098464.ingest.sentry.io
+  - DOMAIN-KEYWORD,openfrp
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
@@ -11,15 +11,15 @@ payload:
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,kejiwanjia.net
-  - DOMAIN-KEYWORD,oracle 
+  - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
   - DOMAIN-KEYWORD,bbs.cdbook
 
 # 影视网站
-  - DOMAIN-KEYWORD,yunbtv
   - DOMAIN,cdn.wls911.com
   - DOMAIN,pptv.1080tg.com
+  - DOMAIN-KEYWORD,yunbtv
 
 # 漫画
   - DOMAIN,cn.baozimh.com
@@ -65,5 +65,5 @@ payload:
 
 # 时间同步
   - DOMAIN-KEYWORD,time
-  - DOMAIN-KEYWORD,ntp 
-  
+  - DOMAIN-KEYWORD,ntp
+
