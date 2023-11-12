@@ -1,27 +1,16 @@
 payload:
-# 一些ip地址
-  - IP-CIDR,20.255.19.137/32
-
-# 机场
-#  - DOMAIN,wujielink.xyz
-#  - DOMAIN,xn--rgv465a.xyz
 
 # 常用直连域名
 # api
   - DOMAIN-KEYWORD,openfrp 
   - DOMAIN,o1098464.ingest.sentry.io
-# Linux
-  # - DOMAIN-SUFFIX,opensuse.org
-  # - DOMAIN-SUFFIX,cdn.opensuse.org
-  # - DOMAIN-SUFFIX,download.opensuse.org
-  # - DOMAIN-SUFFIX,conncheck.opensuse.org
-  # - DOMAIN-SUFFIX,codecs.opensuse.org
 
 # 网站
   - DOMAIN-SUFFIX,5iux.cn
   - DOMAIN-SUFFIX,beatstage.com
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,kejiwanjia.net
   - DOMAIN-KEYWORD,oracle 
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
@@ -73,14 +62,6 @@ payload:
   - DOMAIN-SUFFIX,raw.fastgit.org
   - DOMAIN-SUFFIX,gcore.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.jsdelivr.ren
-
-# 一些常用的端口
-  # - DST-PORT,21
-  # - DST-PORT,22
-  # - DST-PORT,1111
-  # - DST-PORT,2222
-  # - DST-PORT,3333
-  # - DST-PORT,8022
 
 # 时间同步
   - DOMAIN-KEYWORD,time
