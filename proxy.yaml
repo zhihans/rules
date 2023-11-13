@@ -44,6 +44,7 @@ payload:
   - DOMAIN-KEYWORD,hanime1
   - DOMAIN-KEYWORD,ikuuu
   - DOMAIN-KEYWORD,summer-plus
+  - DOMAIN-KEYWORD,bandwagon
 
 # 加密货币
   - DOMAIN-SUFFIX,trustwallet.com
