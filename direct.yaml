@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,beatstage.com
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,freenom
   - DOMAIN-KEYWORD,diyibanzhu
