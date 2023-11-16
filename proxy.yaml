@@ -47,6 +47,9 @@ payload:
   - DOMAIN-KEYWORD,summer-plus
   - DOMAIN-KEYWORD,bandwagonhost
 
+# 博客
+  - DOMAIN-SUFFIX,ivonblog.com
+
 # 加密货币
   - DOMAIN-SUFFIX,trustwallet.com
   - DOMAIN-SUFFIX,bitkeep.top
