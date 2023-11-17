@@ -3,6 +3,7 @@ payload:
 # 常用直连域名
 # api
   - DOMAIN,o1098464.ingest.sentry.io
+  - DOMAIN,api.github.com
   - DOMAIN-KEYWORD,openfrp
 
 # 网站
