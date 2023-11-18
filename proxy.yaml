@@ -49,6 +49,7 @@ payload:
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
+  - DOMAIN-SUFFIX,pianshen.com
 
 # 加密货币
   - DOMAIN-SUFFIX,trustwallet.com
