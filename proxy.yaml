@@ -46,6 +46,7 @@ payload:
   - DOMAIN-KEYWORD,ikuuu
   - DOMAIN-KEYWORD,summer-plus
   - DOMAIN-KEYWORD,bandwagonhost
+  - DOMAIN-SUFFIX,pixelexperience
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
