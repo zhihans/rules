@@ -49,6 +49,7 @@ payload:
   - DOMAIN-KEYWORD,summer-plus
   - DOMAIN-KEYWORD,bandwagonhost
   - DOMAIN-KEYWORD,pixelexperience
+  - DOMAIN-KEYWORD,wiki
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
