@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,rockmods.net
   - DOMAIN-SUFFIX,apkadmin.com
   - DOMAIN-SUFFIX,file.garden
+  - DOMAIN-SUFFIX,devuploads.com
 
 # radxa
   - DOMAIN-SUFFIX,radxa.com
