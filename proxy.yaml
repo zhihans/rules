@@ -4,8 +4,10 @@ payload:
   # - DOMAIN,miuiver.com
 # 机场
   - DOMAIN,wujielink.xyz
+  - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-KEYWORD,ikuuu
 
-# yacd面板
+# clash ui
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
@@ -22,36 +24,47 @@ payload:
   - DOMAIN,www.baozimh.com
   - DOMAIN-SUFFIX,yemancomic.com
   - DOMAIN-SUFFIX,mikanani.me
-
-# 常用代理域名 
-  - DOMAIN-SUFFIX,gofrp.org
-  - DOMAIN-SUFFIX,feed43.com
-  - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,wordpress.org
-  - DOMAIN-SUFFIX,dlercloud.com
-  - DOMAIN-SUFFIX,emojiall.com
-  - DOMAIN-SUFFIX,radxa.com
-  - DOMAIN-SUFFIX,radxa.co
-  - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,hicairo.com
-  - DOMAIN-SUFFIX,medpartner.club
+
+#小说
   - DOMAIN-SUFFIX,69shuba.com
-  - DOMAIN-SUFFIX,rockmods.net
-  - DOMAIN-SUFFIX,apkadmin.com
-  - DOMAIN-SUFFIX,wallhaven.cc
-  - DOMAIN-SUFFIX,v2raya.org
-  - DOMAIN-SUFFIX,kejiwanjia.net
-  - DOMAIN-SUFFIX,ppui.site
-  - DOMAIN-SUFFIX,software.es.net
-  - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
+
+#视频
   - DOMAIN-KEYWORD,hanime1
-  - DOMAIN-KEYWORD,ikuuu
+
+# 论坛
+  - DOMAIN-SUFFIX,v2raya.org
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,kejiwanjia.net
   - DOMAIN-KEYWORD,summer-plus
+
+# 各类官网
+  - DOMAIN-SUFFIX,feed43.com
+  - DOMAIN-SUFFIX,gofrp.org
+  - DOMAIN-SUFFIX,wordpress.org
+  - DOMAIN-SUFFIX,software.es.net
+  - DOMAIN-SUFFIX,ppui.site
+  - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
   - DOMAIN-KEYWORD,bandwagonhost
   - DOMAIN-KEYWORD,pixelexperience
   - DOMAIN-KEYWORD,wiki
+
+# 常用代理域名
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,emojiall.com
+  - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-SUFFIX,medpartner.club
+  - DOMAIN-SUFFIX,wallhaven.cc
+
+# Rockmod
+  - DOMAIN-SUFFIX,rockmods.net
+  - DOMAIN-SUFFIX,apkadmin.com
+  - DOMAIN-SUFFIX,file.garden
+
+# radxa
+  - DOMAIN-SUFFIX,radxa.com
+  - DOMAIN-SUFFIX,radxa.co
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
