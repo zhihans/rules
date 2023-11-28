@@ -24,7 +24,6 @@ payload:
 
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
-  - DOMAIN-SUFFIX,feed43.com
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
