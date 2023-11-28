@@ -34,13 +34,14 @@ payload:
   - DOMAIN-KEYWORD,hanime1
 
 # 论坛
-  - DOMAIN-SUFFIX,v2raya.org
-  - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,kejiwanjia.net
   - DOMAIN-KEYWORD,summer-plus
 
-# 各类官网
+# 工具网站
+  - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,feed43.com
+
+# 官网
   - DOMAIN-SUFFIX,gofrp.org
   - DOMAIN-SUFFIX,wordpress.org
   - DOMAIN-SUFFIX,software.es.net
@@ -52,9 +53,6 @@ payload:
 
 # 常用代理域名
   - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,emojiall.com
-  - DOMAIN-SUFFIX,hicairo.com
-  - DOMAIN-SUFFIX,medpartner.club
   - DOMAIN-SUFFIX,wallhaven.cc
 
 # Rockmods
@@ -69,6 +67,10 @@ payload:
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
   - DOMAIN-SUFFIX,pianshen.com
+  - DOMAIN-SUFFIX,medpartner.club
+  - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-SUFFIX,v2raya.org
+  - DOMAIN-SUFFIX,v2rayssr.com
 
 # 加密货币
   - DOMAIN-SUFFIX,trustwallet.com
