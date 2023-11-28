@@ -6,40 +6,12 @@ payload:
   - DOMAIN,wujielink.xyz
   - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-KEYWORD,ikuuu
+  - DOMAIN-KEYWORD,bandwagonhost
 
 # clash ui
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
-
-# speedtest.net
-  - DOMAIN,b.cdnst.net
-  - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,speed.misaka.one
-  - DOMAIN-SUFFIX,ooklaserver.net
-  - DOMAIN-SUFFIX,fdcservers.net
-  - DOMAIN-SUFFIX,gslnetworks.com
-
-# 漫画
-  - DOMAIN,www.baozimh.com
-  - DOMAIN-SUFFIX,yemancomic.com
-  - DOMAIN-SUFFIX,mikanani.me
-  - DOMAIN-SUFFIX,18comic.vip
-  - DOMAIN-SUFFIX,e-hentai.org
-
-#小说
-  - DOMAIN-SUFFIX,69shuba.com
-
-#视频
-  - DOMAIN-KEYWORD,hanime1
-
-# 论坛
-  - DOMAIN-SUFFIX,kejiwanjia.net
-  - DOMAIN-KEYWORD,summer-plus
-
-# 工具网站
-  - DOMAIN-SUFFIX,emojiall.com
-  - DOMAIN-SUFFIX,feed43.com
 
 # 官网
   - DOMAIN-SUFFIX,gofrp.org
@@ -47,13 +19,34 @@ payload:
   - DOMAIN-SUFFIX,software.es.net
   - DOMAIN-SUFFIX,ppui.site
   - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
-  - DOMAIN-KEYWORD,bandwagonhost
   - DOMAIN-KEYWORD,pixelexperience
   - DOMAIN-KEYWORD,wiki
 
-# 常用代理域名
-  - DOMAIN-SUFFIX,vercel.app
+# 工具网站
+  - DOMAIN-SUFFIX,emojiall.com
+  - DOMAIN-SUFFIX,feed43.com
+
+# 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
+# 漫画
+  - DOMAIN,www.baozimh.com
+  - DOMAIN-SUFFIX,yemancomic.com
+  - DOMAIN-SUFFIX,mikanani.me
+# 视频
+  - DOMAIN-KEYWORD,hanime1
+# 小说
+  - DOMAIN-SUFFIX,69shuba.com
+
+# 博客
+  - DOMAIN-SUFFIX,ivonblog.com
+  - DOMAIN-SUFFIX,pianshen.com
+  - DOMAIN-SUFFIX,medpartner.club
+  - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-SUFFIX,v2raya.org
+  - DOMAIN-SUFFIX,v2rayssr.com
+# 论坛
+  - DOMAIN-SUFFIX,kejiwanjia.net
+  - DOMAIN-KEYWORD,summer-plus
 
 # Rockmods
   - DOMAIN-SUFFIX,rockmods.net
@@ -64,16 +57,10 @@ payload:
   - DOMAIN-SUFFIX,radxa.com
   - DOMAIN-SUFFIX,radxa.co
 
-# 博客
-  - DOMAIN-SUFFIX,ivonblog.com
-  - DOMAIN-SUFFIX,pianshen.com
-  - DOMAIN-SUFFIX,medpartner.club
-  - DOMAIN-SUFFIX,hicairo.com
-  - DOMAIN-SUFFIX,v2raya.org
-  - DOMAIN-SUFFIX,v2rayssr.com
-
-# 加密货币
-  - DOMAIN-SUFFIX,trustwallet.com
-  - DOMAIN-SUFFIX,bitkeep.top
-  - DOMAIN-SUFFIX,bitcoin.com
-  - DOMAIN-SUFFIX,bi123.co
+# speedtest.net
+  - DOMAIN,b.cdnst.net
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,gslnetworks.com
