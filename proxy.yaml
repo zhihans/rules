@@ -15,6 +15,7 @@ payload:
 
 # 官网
   - DOMAIN-SUFFIX,gofrp.org
+  - DOMAIN-SUFFIX,fishshell.com
   - DOMAIN-SUFFIX,wordpress.org
   - DOMAIN-SUFFIX,software.es.net
   - DOMAIN-SUFFIX,ppui.site
