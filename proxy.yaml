@@ -48,6 +48,7 @@ payload:
 # 论坛
   - DOMAIN-SUFFIX,kejiwanjia.net
   - DOMAIN-KEYWORD,summer-plus
+  - DOMAIN-KEYWORD,containerlabs.kubedaily.com
 
 # Rockmods
   - DOMAIN-SUFFIX,rockmods.net
