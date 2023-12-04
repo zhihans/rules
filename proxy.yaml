@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,codeyarns.com
 # 论坛
+  - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,kejiwanjia.net
   - DOMAIN-KEYWORD,summer-plus
   - DOMAIN-KEYWORD,containerlabs.kubedaily.com
