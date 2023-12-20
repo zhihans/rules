@@ -7,7 +7,6 @@ payload:
   - DOMAIN-KEYWORD,openfrp
 
 # 网站
-  - DOMAIN-SUFFIX,5iux.cn
   - DOMAIN-SUFFIX,beatstage.com
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,ip.sb
@@ -41,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,gh.flyinbug.top
   - DOMAIN-SUFFIX,github.91chi.fun
   - DOMAIN-SUFFIX,proxy.zyun.vip
-  - DOMAIN-SUFFIX,git.xfj0.cn
   - DOMAIN-SUFFIX,gh.con.sh
   - DOMAIN-SUFFIX,ghps.cc
   - DOMAIN-SUFFIX,cors.isteed.cc
@@ -56,7 +54,6 @@ payload:
   - DOMAIN-SUFFIX,hub.njuu.cf
   - DOMAIN-SUFFIX,hub.yzuu.cf
   - DOMAIN-SUFFIX,hub.nuaa.cf
-  - DOMAIN-SUFFIX,git.zhlh6.cn
   - DOMAIN-SUFFIX,raw.iqiq.io
   - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,raw.kgithub.com
