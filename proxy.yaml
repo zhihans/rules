@@ -16,6 +16,7 @@ payload:
 
 # 官网
   - DOMAIN-SUFFIX,gofrp.org
+  - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,fishshell.com
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,wordpress.org
@@ -54,7 +55,7 @@ payload:
 # 论坛
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,kejiwanjia.net
-  - DOMAIN-KEYWORD,summer-plus
+#  - DOMAIN-KEYWORD,summer-plus
   - DOMAIN-KEYWORD,containerlabs.kubedaily.com
 
 # Rockmods
