@@ -52,6 +52,8 @@ payload:
   - DOMAIN-SUFFIX,codeyarns.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,madoucun.com
+  - DOMAIN-SUFFIX,nya.one
+  - DOMAIN-SUFFIX,vpsxb.net
 # 论坛
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,kejiwanjia.net
