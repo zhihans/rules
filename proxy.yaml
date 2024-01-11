@@ -25,11 +25,13 @@ payload:
   - DOMAIN-SUFFIX,pling.com
   - DOMAIN-SUFFIX,opencode.net
   - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
+  - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-KEYWORD,pixelexperience
   - DOMAIN-KEYWORD,wiki
 
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
+  - DOMAIN-SUFFIX,picrew.me
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
