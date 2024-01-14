@@ -3,9 +3,11 @@ payload:
 # 常用直连域名
 # api
   - DOMAIN-KEYWORD,openfrp
+  - DOMAIN,log.madrabbit.eu.org
 
 # 网站
   - DOMAIN-SUFFIX,beatstage.com
+  - DOMAIN-SUFFIX,jamcz.com
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,archlinuxcn.org
