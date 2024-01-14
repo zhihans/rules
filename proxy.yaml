@@ -6,8 +6,6 @@ payload:
 # 机场
   - DOMAIN,wujielink.xyz
   - DOMAIN-SUFFIX,dlercloud.com
-  - DOMAIN-KEYWORD,ikuuu
-  - DOMAIN-KEYWORD,bandwagonhost
 
 # clash ui
   - DOMAIN,clash.razord.top
@@ -26,8 +24,6 @@ payload:
   - DOMAIN-SUFFIX,opencode.net
   - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
   - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-KEYWORD,pixelexperience
-  - DOMAIN-KEYWORD,wiki
 
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
@@ -40,9 +36,9 @@ payload:
   - DOMAIN-SUFFIX,yemancomic.com
   - DOMAIN-SUFFIX,mikanani.me
 # 视频
-  - DOMAIN-KEYWORD,hanime1
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,69xinshu.com
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
@@ -58,9 +54,8 @@ payload:
   - DOMAIN-SUFFIX,vpsxb.net
 # 论坛
   - DOMAIN-SUFFIX,ffqla.net
-  - DOMAIN-SUFFIX,kejiwanjia.net
-#  - DOMAIN-KEYWORD,summer-plus
-  - DOMAIN-KEYWORD,containerlabs.kubedaily.com
+  # - DOMAIN-SUFFIX,kejiwanjia.net
+  # - DOMAIN-SUFFIX,summer-plus.net
 
 # Rockmods
   - DOMAIN-SUFFIX,rockmods.net
