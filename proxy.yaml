@@ -2,6 +2,7 @@ payload:
 
 # 调试
   # - DOMAIN,miuiver.com
+  - DOMAIN-SUFFIX,unlock.media
 
 # 机场
   - DOMAIN,wujielink.xyz
@@ -28,6 +29,7 @@ payload:
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,picrew.me
+  - DOMAIN,ghproxy.com
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
@@ -52,6 +54,8 @@ payload:
   - DOMAIN-SUFFIX,madoucun.com
   - DOMAIN-SUFFIX,nya.one
   - DOMAIN-SUFFIX,vpsxb.net
+  - DOMAIN-SUFFIX,yugogo.xyz
+  - DOMAIN-SUFFIX,clash-gaming.com
 # 论坛
   - DOMAIN-SUFFIX,ffqla.net
   # - DOMAIN-SUFFIX,kejiwanjia.net
