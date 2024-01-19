@@ -29,7 +29,6 @@ payload:
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,picrew.me
-  - DOMAIN,ghproxy.com
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
