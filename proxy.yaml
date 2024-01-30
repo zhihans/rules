@@ -13,7 +13,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
 
-# 官网
+# 官网文档
   - DOMAIN-SUFFIX,gofrp.org
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,fishshell.com
@@ -25,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,opencode.net
   - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
   - DOMAIN-SUFFIX,workers.dev
-
+  - DOMAIN,qinglong.ukenn.top
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,picrew.me
@@ -37,9 +37,12 @@ payload:
   - DOMAIN-SUFFIX,yemancomic.com
   - DOMAIN-SUFFIX,mikanani.me
 # 视频
+  - DOMAIN-SUFFIX,giphy.com
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
+# APP
+#  - DOMAIN-SUFFIX,rikkati.today
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com

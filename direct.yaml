@@ -7,6 +7,7 @@ payload:
 # 网站
   - DOMAIN-SUFFIX,jamcz.com
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,oraclecloud.com
 
 # 漫画
   - DOMAIN,cn.baozimh.com
