@@ -29,6 +29,7 @@ payload:
 # 工具网站
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,picrew.me
+  - DOMAIN-SUFFIX,saashub.com
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
@@ -41,6 +42,8 @@ payload:
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
+  - DOMAIN-SUFFIX,yckceo.com
+#  - DOMAIN-SUFFIX,yckceo1.com
 # APP
 #  - DOMAIN-SUFFIX,rikkati.today
 
@@ -60,6 +63,8 @@ payload:
   - DOMAIN-SUFFIX,clash-gaming.com
 # 论坛
   - DOMAIN-SUFFIX,ffqla.net
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,8world.com
   # - DOMAIN-SUFFIX,kejiwanjia.net
   # - DOMAIN-SUFFIX,summer-plus.net
 
