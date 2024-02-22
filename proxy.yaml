@@ -6,7 +6,6 @@ payload:
 
 # 机场
   - DOMAIN,wujielink.xyz
-  - DOMAIN-SUFFIX,dlercloud.com
 
 # clash ui
   - DOMAIN,clash.razord.top
@@ -18,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,fishshell.com
   - DOMAIN-SUFFIX,opendns.com
-  - DOMAIN-SUFFIX,wordpress.org
   - DOMAIN-SUFFIX,software.es.net
   - DOMAIN-SUFFIX,ppui.site
   - DOMAIN-SUFFIX,pling.com
@@ -36,7 +34,6 @@ payload:
 # 漫画
   - DOMAIN,www.baozimh.com
   - DOMAIN-SUFFIX,yemancomic.com
-  - DOMAIN-SUFFIX,mikanani.me
 # 视频
   - DOMAIN-SUFFIX,giphy.com
 # 小说
