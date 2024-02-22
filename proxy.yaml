@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN,qinglong.ukenn.top
 # 工具网站
-  - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,picrew.me
   - DOMAIN-SUFFIX,saashub.com
 
@@ -33,13 +32,11 @@ payload:
   - DOMAIN-SUFFIX,wallhaven.cc
 # 漫画
   - DOMAIN,www.baozimh.com
-  - DOMAIN-SUFFIX,yemancomic.com
 # 视频
   - DOMAIN-SUFFIX,giphy.com
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
-  - DOMAIN-SUFFIX,yckceo.com
 #  - DOMAIN-SUFFIX,yckceo1.com
 # APP
 #  - DOMAIN-SUFFIX,rikkati.today
