@@ -3,6 +3,8 @@ payload:
 # 调试
   # - DOMAIN,miuiver.com
   - DOMAIN-SUFFIX,unlock.media
+  - DOMAIN-SUFFIX,nix-on-droid.unboiled.info
+  - DOMAIN-SUFFIX,ipify.org
 
 # 机场
   - DOMAIN,wujielink.xyz
@@ -12,11 +14,12 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
 
-# 官网文档
+# 官网
   - DOMAIN-SUFFIX,gofrp.org
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,fishshell.com
   - DOMAIN-SUFFIX,opendns.com
+  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,software.es.net
   - DOMAIN-SUFFIX,ppui.site
   - DOMAIN-SUFFIX,pling.com

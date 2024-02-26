@@ -3,10 +3,10 @@ payload:
 # 必要直连域名
 # api
   - DOMAIN,log.madrabbit.eu.org
+  - DOMAIN-SUFFIX,ip.sb
 
 # 网站
   - DOMAIN-SUFFIX,jamcz.com
-  - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,oraclecloud.com
 
 # 漫画
