@@ -4,7 +4,6 @@ payload:
   # - DOMAIN,miuiver.com
   - DOMAIN-SUFFIX,unlock.media
   - DOMAIN-SUFFIX,nix-on-droid.unboiled.info
-  - DOMAIN-SUFFIX,ipify.org
 
 # 机场
   - DOMAIN,wujielink.xyz
