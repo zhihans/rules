@@ -17,8 +17,10 @@ payload:
   - DOMAIN-SUFFIX,gofrp.org
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,fishshell.com
+  - DOMAIN-SUFFIX,curl.se
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,freedownloadmanager.org
   - DOMAIN-SUFFIX,software.es.net
   - DOMAIN-SUFFIX,ppui.site
   - DOMAIN-SUFFIX,pling.com
@@ -39,11 +41,13 @@ payload:
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
+  - DOMAIN-SUFFIX,69shu.pro
 # APP
 #  - DOMAIN-SUFFIX,rikkati.today
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
+  - DOMAIN-SUFFIX,idev.dev
   - DOMAIN-SUFFIX,pianshen.com
   - DOMAIN-SUFFIX,medpartner.club
   - DOMAIN-SUFFIX,hicairo.com
@@ -80,3 +84,5 @@ payload:
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,gslnetworks.com
+# oisd
+  - DOMAIN,small.oisd.nl
