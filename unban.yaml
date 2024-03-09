@@ -1,3 +1,0 @@
-payload:
-# 不应该拦截列表
-  - DOMAIN,wtradv.market.xiaomi.com
