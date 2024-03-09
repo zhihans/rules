@@ -38,6 +38,10 @@ payload:
   - DOMAIN,www.baozimh.com
 # 视频
   - DOMAIN-SUFFIX,giphy.com
+  - DOMAIN-SUFFIX,acg.rip
+  - DOMAIN-SUFFIX,bangumi.moe
+  - DOMAIN-SUFFIX,miobt.com
+  - DOMAIN-SUFFIX,36dm.club
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
@@ -64,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,uscardforum.com
   - DOMAIN-SUFFIX,8world.com
+  - DOMAIN-SUFFIX,machbbs.com
   # - DOMAIN-SUFFIX,kejiwanjia.net
   # - DOMAIN-SUFFIX,summer-plus.net
 
@@ -85,4 +90,4 @@ payload:
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,gslnetworks.com
 # oisd
-  - DOMAIN,small.oisd.nl
+  - DOMAIN-SUFFIX,oisd.nl
