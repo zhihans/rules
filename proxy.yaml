@@ -91,3 +91,8 @@ payload:
   - DOMAIN-SUFFIX,gslnetworks.com
 # oisd
   - DOMAIN-SUFFIX,oisd.nl
+# subway surf
+  - DOMAIN-SUFFIX,sybo.net
+  - DOMAIN-SUFFIX,singular.net
+# androee
+  - DOMAIN-SUFFIX,androeed.ru
