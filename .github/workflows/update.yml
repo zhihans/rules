@@ -20,7 +20,7 @@ jobs:
 
       - name: Run data update
         run: |
-          cd cdn/ && chmod +x update.sh && bash update.sh
+          cd cdn/ && chmod +x update.sh && bash update.sh && cd ..
           cd oisd/ && chmod +x update.sh && bash update.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v5
