@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202403300606
+# Version: 202403301206
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
-# Entries: 45919
-# Last modified: 2024-03-30T06:06:23+0000
+# Entries: 45918
+# Last modified: 2024-03-30T12:06:30+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -669,7 +669,6 @@ DOMAIN-SUFFIX,50m.gkcyc.com
 DOMAIN-SUFFIX,50websads.com
 DOMAIN-SUFFIX,5115924dd3.com
 DOMAIN-SUFFIX,511a.cn
-DOMAIN-SUFFIX,5193d620ce.com
 DOMAIN-SUFFIX,51gxqm.com
 DOMAIN-SUFFIX,51kaowang.com
 DOMAIN-SUFFIX,51xumei.com
