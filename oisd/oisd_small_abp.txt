@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202403300006
+# Version: 202403300306
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
-# Entries: 45923
-# Last modified: 2024-03-30T00:06:23+0000
+# Entries: 45919
+# Last modified: 2024-03-30T03:06:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -759,7 +759,6 @@ DOMAIN-SUFFIX,63r2vxacp0pr.com
 DOMAIN-SUFFIX,63voy9ciyi14.com
 DOMAIN-SUFFIX,641198810fae7.com
 DOMAIN-SUFFIX,644446.com
-DOMAIN-SUFFIX,64df8e1c63.com
 DOMAIN-SUFFIX,64p3am9x95ct.com
 DOMAIN-SUFFIX,65677358625.com
 DOMAIN-SUFFIX,658bbb.us
@@ -821,7 +820,6 @@ DOMAIN-SUFFIX,71d7511a4861068.com
 DOMAIN-SUFFIX,72hdgb5o.de
 DOMAIN-SUFFIX,73e7765979.com
 DOMAIN-SUFFIX,74c0059aba.com
-DOMAIN-SUFFIX,75416fa555.com
 DOMAIN-SUFFIX,75c63bbb68.com
 DOMAIN-SUFFIX,76a7doiet256.com
 DOMAIN-SUFFIX,777-club.ru
@@ -968,7 +966,6 @@ DOMAIN-SUFFIX,97d73lsi.com
 DOMAIN-SUFFIX,97fn1ej0.myutilitydomain.com
 DOMAIN-SUFFIX,9831tb.com
 DOMAIN-SUFFIX,9857047066.com
-DOMAIN-SUFFIX,9978689407.com
 DOMAIN-SUFFIX,99886aaa.com
 DOMAIN-SUFFIX,9996777888.com
 DOMAIN-SUFFIX,999aa666bb.com
@@ -24100,7 +24097,6 @@ DOMAIN-SUFFIX,leverseriouslyremarks.com
 DOMAIN-SUFFIX,levinerunlatch.life
 DOMAIN-SUFFIX,levityprogramming.com
 DOMAIN-SUFFIX,levityquestionshandcuff.com
-DOMAIN-SUFFIX,levtlfbfrm.com
 DOMAIN-SUFFIX,levulicbenday.digital
 DOMAIN-SUFFIX,levyteenagercrushing.com
 DOMAIN-SUFFIX,lewdlygrips.top
