@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202403300306
+# Version: 202403300606
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
 # Entries: 45919
-# Last modified: 2024-03-30T03:06:09+0000
+# Last modified: 2024-03-30T06:06:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -198,7 +198,6 @@ DOMAIN-SUFFIX,148dfe140d0f3d5e.com
 DOMAIN-SUFFIX,14cpoff22.de
 DOMAIN-SUFFIX,14fefmsjd.de
 DOMAIN-SUFFIX,14i8trbbx4.com
-DOMAIN-SUFFIX,15d3c0325b.com
 DOMAIN-SUFFIX,16-merchant-s.com
 DOMAIN-SUFFIX,166f.com
 DOMAIN-SUFFIX,1675450967.rsc.cdn77.org
@@ -11131,7 +11130,6 @@ DOMAIN-SUFFIX,coubte.com
 DOMAIN-SUFFIX,coudswamper.com
 DOMAIN-SUFFIX,cougar.augmentedmindapp.com
 DOMAIN-SUFFIX,cougar.wzulfikar.com
-DOMAIN-SUFFIX,couldblindly.com
 DOMAIN-SUFFIX,couldburgeon.com
 DOMAIN-SUFFIX,couldobliterate.com
 DOMAIN-SUFFIX,counaupsi.com
@@ -21206,6 +21204,7 @@ DOMAIN-SUFFIX,ielmzzm.com
 DOMAIN-SUFFIX,iemiq.com
 DOMAIN-SUFFIX,iendoo.com
 DOMAIN-SUFFIX,ienewpxb.top
+DOMAIN-SUFFIX,ientent.stre4mplay.one
 DOMAIN-SUFFIX,ientent.streampiay.fun
 DOMAIN-SUFFIX,ientrymail.com
 DOMAIN-SUFFIX,ieoyptnech.com
@@ -22032,6 +22031,7 @@ DOMAIN-SUFFIX,ionistkhaya.website
 DOMAIN-SUFFIX,ioniumentomic.com
 DOMAIN-SUFFIX,iononetravoy.com
 DOMAIN-SUFFIX,ionscormationwind.info
+DOMAIN-SUFFIX,iontent.powzerz.lol
 DOMAIN-SUFFIX,ionwindonpetropic.info
 DOMAIN-SUFFIX,iopiopiop.net
 DOMAIN-SUFFIX,iopiopiop.org

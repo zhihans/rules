@@ -1,6 +1,6 @@
 | 文件名 | 条目数 |
 | ------- | ------ |
-| oisd_big_abp.txt | 198262 |
+| oisd_big_abp.txt | 198260 |
 | oisd_nsfw_abp.txt | 403204 |
 | oisd_small_abp.txt | 45919 |
 
