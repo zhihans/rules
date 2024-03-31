@@ -1,7 +1,7 @@
 | 文件名 | 条目数 |
 | ------- | ------ |
-| oisd_big_abp.txt | 198585 |
-| oisd_nsfw_abp.txt | 403212 |
+| oisd_big_abp.txt | 198584 |
+| oisd_nsfw_abp.txt | 403213 |
 | oisd_small_abp.txt | 45966 |
 
 ```yaml
