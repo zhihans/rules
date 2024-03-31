@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202403301806
+# Version: 202403310037
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
-# Entries: 46013
-# Last modified: 2024-03-30T18:06:01+0000
+# Entries: 46010
+# Last modified: 2024-03-31T00:37:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -582,6 +582,7 @@ DOMAIN-SUFFIX,3myad.com
 DOMAIN-SUFFIX,3ng6p6m0.de
 DOMAIN-SUFFIX,3p-geo.yahoo.com
 DOMAIN-SUFFIX,3p-udc.yahoo.com
+DOMAIN-SUFFIX,3q1lsj.cn
 DOMAIN-SUFFIX,3qfe1gfa.de
 DOMAIN-SUFFIX,3redlightfix.com
 DOMAIN-SUFFIX,3sk7d418al8u.com
@@ -4598,6 +4599,7 @@ DOMAIN-SUFFIX,analytics.marquiz.ru
 DOMAIN-SUFFIX,analytics.maxroll.gg
 DOMAIN-SUFFIX,analytics.media-proweb.de
 DOMAIN-SUFFIX,analytics.meituan.net
+DOMAIN-SUFFIX,analytics.mercadolibre.com
 DOMAIN-SUFFIX,analytics.metrix.ir
 DOMAIN-SUFFIX,analytics.mindjolt.com
 DOMAIN-SUFFIX,analytics.mobile.walmart.com
@@ -8673,10 +8675,8 @@ DOMAIN-SUFFIX,bvxiht.xyz
 DOMAIN-SUFFIX,bwb101.goo.ne.jp
 DOMAIN-SUFFIX,bwgmymp.com
 DOMAIN-SUFFIX,bwlcpr.xyz
-DOMAIN-SUFFIX,bwoqmqkhamcri.com
 DOMAIN-SUFFIX,bwp.download.com
 DOMAIN-SUFFIX,bwpuoba.com
-DOMAIN-SUFFIX,bwqvrssydmlbx.com
 DOMAIN-SUFFIX,bwstatistics.sapoapps.vn
 DOMAIN-SUFFIX,bwwlw.cn
 DOMAIN-SUFFIX,bx.khedivaormond.com
@@ -8721,7 +8721,6 @@ DOMAIN-SUFFIX,bytesreunitedcedar.com
 DOMAIN-SUFFIX,byteyieldcreated.com
 DOMAIN-SUFFIX,bytogeticr.com
 DOMAIN-SUFFIX,bytupkvc.xyz
-DOMAIN-SUFFIX,byuwkbv.top
 DOMAIN-SUFFIX,byvlph.xyz
 DOMAIN-SUFFIX,byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 DOMAIN-SUFFIX,bywntfg.com
@@ -9307,6 +9306,7 @@ DOMAIN-SUFFIX,cdgfa.ifeng.com
 DOMAIN-SUFFIX,cdgtw3.guapaijia.com
 DOMAIN-SUFFIX,cdhfvrug.xyz
 DOMAIN-SUFFIX,cdj-dap.s3-ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,cdmgac.xyz
 DOMAIN-SUFFIX,cdmjur.xyz
 DOMAIN-SUFFIX,cdmnlxtu.xyz
 DOMAIN-SUFFIX,cdn-adn.rayjump.com
@@ -18647,9 +18647,7 @@ DOMAIN-SUFFIX,geumhuzzy.com
 DOMAIN-SUFFIX,gevmrjok.com
 DOMAIN-SUFFIX,gewbafkw.com
 DOMAIN-SUFFIX,gf.goreplacers.com
-DOMAIN-SUFFIX,gfkbjdebxmt.xyz
 DOMAIN-SUFFIX,gfn1.ugap.fr
-DOMAIN-SUFFIX,gfnektqogda.com
 DOMAIN-SUFFIX,gforanythingam.com
 DOMAIN-SUFFIX,gfpvvwf.xyz
 DOMAIN-SUFFIX,gfsdloocn.com
@@ -20997,6 +20995,7 @@ DOMAIN-SUFFIX,hvmxvowx.top
 DOMAIN-SUFFIX,hvooyieoei.com
 DOMAIN-SUFFIX,hvpard.xyz
 DOMAIN-SUFFIX,hvpguevleand.com
+DOMAIN-SUFFIX,hvxrvef.xyz
 DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
 DOMAIN-SUFFIX,hw.testulebottega.com
 DOMAIN-SUFFIX,hwa.his.huawei.com
@@ -22293,7 +22292,6 @@ DOMAIN-SUFFIX,ivedmanyyea.org
 DOMAIN-SUFFIX,ivegrandpa.com
 DOMAIN-SUFFIX,ivesofefinegold.info
 DOMAIN-SUFFIX,ivjkdyrjjgxhch.com
-DOMAIN-SUFFIX,ivmkkkrjhxphb.com
 DOMAIN-SUFFIX,ivorcs.com
 DOMAIN-SUFFIX,ivoryvestigeminus.com
 DOMAIN-SUFFIX,ivy.pconline.com.cn
@@ -23226,7 +23224,6 @@ DOMAIN-SUFFIX,keywordblocks.com
 DOMAIN-SUFFIX,keywordsconnect.com
 DOMAIN-SUFFIX,kfareputfeab.org
 DOMAIN-SUFFIX,kfckcu.xyz
-DOMAIN-SUFFIX,kfgqfjledfy.xyz
 DOMAIN-SUFFIX,kfiopkln.com
 DOMAIN-SUFFIX,kfjhd.com
 DOMAIN-SUFFIX,kfjpren.xyz
@@ -31569,6 +31566,7 @@ DOMAIN-SUFFIX,pqnqrjxe.xyz
 DOMAIN-SUFFIX,pqxyqq.com
 DOMAIN-SUFFIX,pr-star.de
 DOMAIN-SUFFIX,pr.ikovrov.ru
+DOMAIN-SUFFIX,pr.nss.netease.com
 DOMAIN-SUFFIX,pr.rusmed.ru
 DOMAIN-SUFFIX,pr0gram.org
 DOMAIN-SUFFIX,pr88vhg.com
@@ -34960,6 +34958,7 @@ DOMAIN-SUFFIX,rydresa.info
 DOMAIN-SUFFIX,rydyvv.xyz
 DOMAIN-SUFFIX,rydzfldt.xyz
 DOMAIN-SUFFIX,ryepublisher.com
+DOMAIN-SUFFIX,ryhkft.xyz
 DOMAIN-SUFFIX,ryllae.com
 DOMAIN-SUFFIX,ryminos.com
 DOMAIN-SUFFIX,ryremovement.com
@@ -39593,7 +39592,6 @@ DOMAIN-SUFFIX,thiscombinationdecorated.com
 DOMAIN-SUFFIX,thisiswaldo.com
 DOMAIN-SUFFIX,thisisyourprize.site
 DOMAIN-SUFFIX,thislaboratory.com
-DOMAIN-SUFFIX,thiuswmyruom.com
 DOMAIN-SUFFIX,thivelunliken.com
 DOMAIN-SUFFIX,thj.astrakhan.ru
 DOMAIN-SUFFIX,thjwxz.xyz
@@ -42241,7 +42239,6 @@ DOMAIN-SUFFIX,uttack.com
 DOMAIN-SUFFIX,utterlyfunding.com
 DOMAIN-SUFFIX,utubepwhml.com
 DOMAIN-SUFFIX,utwwzqdx.xyz
-DOMAIN-SUFFIX,utxmb.cn
 DOMAIN-SUFFIX,uu1.3gu.com
 DOMAIN-SUFFIX,uu11881.com
 DOMAIN-SUFFIX,uu22002.com
