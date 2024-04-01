@@ -23,3 +23,11 @@ for file in original/*; do
     entries=$(grep -oE '# Entries: [0-9]+' "$filename" | cut -d' ' -f3)
     sed -i "s/$filename | [0-9]\+ |$/$filename | $entries |/" readme.md
 done
+
+mkdir -p srs
+for file in *.txt; do
+  jq -R 'select(test("^DOMAIN-SUFFIX")) | split(",")[1]' $file | jq -s '{ "version": 1, "rules": [{ "domain_suffix": . }] }' > "srs/${file%.txt}.json"
+  sing-box rule-set compile srs/${file%.txt}.json
+  echo "$file ==>> srs/${file%.txt}.srs"
+  rm srs/${file%.txt}.json
+done

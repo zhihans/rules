@@ -20,6 +20,9 @@ jobs:
 
       - name: Run data update
         run: |
+          mkdir tmp && cd tmp
+          wget https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
+          tar xf *.tar.gz && mv sing-box-1.8.10-linux-amd64/sing-box /usr/local/bin/ && cd .. && rm tmp -r
           cd cdn/ && chmod +x update.sh && bash update.sh && cd ..
           cd oisd/ && chmod +x update.sh && bash update.sh
 
