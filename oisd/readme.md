@@ -1,8 +1,8 @@
 | 文件名 | 条目数 |
 | ------- | ------ |
-| oisd_big_abp.txt | 196546 |
-| oisd_nsfw_abp.txt | 403134 |
-| oisd_small_abp.txt | 45930 |
+| oisd_big_abp.txt | 196226 |
+| oisd_nsfw_abp.txt | 403271 |
+| oisd_small_abp.txt | 45935 |
 
 ```yaml
 rule-providers:
