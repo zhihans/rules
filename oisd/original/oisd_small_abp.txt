@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202404050306
+! Version: 202404051206
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45916
-! Last modified: 2024-04-05T03:06:24+0000
+! Entries: 45873
+! Last modified: 2024-04-05T12:06:12+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -393,7 +393,6 @@
 ||259luxu.xyz^
 ||25obpfr.de^
 ||25serve.yourporngod.com^
-||25t6ioaooca2.top^
 ||2639iqjkl.de^
 ||26485.top^
 ||268stephe5en3king.com^
@@ -1108,7 +1107,6 @@
 ||a.pornhex.com^
 ||a.prigo.xyz^
 ||a.qinghua5.com^
-||a.qncye.net^
 ||a.quangushi.com^
 ||a.qunzou.com^
 ||a.quora.com^
@@ -1765,7 +1763,6 @@
 ||ad.auditude.com^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -2953,7 +2950,6 @@
 ||adscholar.com^
 ||adscience.nl^
 ||adscienceltd.com^
-||adsclick.yx.js.cn^
 ||adsco.re^
 ||adscreendirect.com^
 ||adscustsrv.com^
@@ -4324,7 +4320,6 @@
 ||amnruvbmeoqp.com^
 ||amobee.com^
 ||amoddishor.com^
-||amonar.com^
 ||amongremember.com^
 ||amonor.com^
 ||amontp.com^
@@ -4347,6 +4342,7 @@
 ||amphibian.tboa.club^
 ||ampiri.com^
 ||amplifypixel.outbrain.com^
+||amplitude.chess.com^
 ||amplitudesheriff.com^
 ||amplitudewassnap.com^
 ||ampltd.top.gg^
@@ -5534,7 +5530,6 @@
 ||as1.m.hao123.com^
 ||as1.maturexxx.vip^
 ||as5000.com^
-||asa2.cn^
 ||asacdn.com^
 ||asafesite.com^
 ||asalawsuit.com^
@@ -5717,7 +5712,6 @@
 ||assurednesssalesmanmaud.com^
 ||assuredtroublemicrowave.com^
 ||assuredunskilledconnected.com^
-||assurehandicappedbonus.com^
 ||assurehonesty.com^
 ||assuremath.com^
 ||ast.techbook.de^
@@ -5946,7 +5940,6 @@
 ||aufeeque.com^
 ||auforau.com^
 ||aufr67i8sten.com^
-||auftithu.xyz^
 ||augaiksu.xyz^
 ||augailou.com^
 ||augu3yhd485st.com^
@@ -7529,7 +7522,6 @@
 ||bitsspiral.com^
 ||bittenlacygreater.com^
 ||bitterborder.pro^
-||bitterlyimprovegreat.com^
 ||bitternessjudicious.com^
 ||bitterportablerespectively.com^
 ||bitterstrawberry.com^
@@ -7577,7 +7569,6 @@
 ||bl230126pb.com^
 ||blabbasket.com^
 ||blabbeddop.com^
-||blabtextmessagephotocopy.com^
 ||black6adv.com^
 ||black77854.com^
 ||blackbird.docstation.co^
@@ -7952,7 +7943,6 @@
 ||bookadil.com^
 ||bookbannershop.com^
 ||bookcrazystadium.com^
-||bookerstudent.com^
 ||bookeryboutre.com^
 ||bookletalternative.com^
 ||bookletblockedcaught.com^
@@ -9903,7 +9893,6 @@
 ||churchalexis.com^
 ||churchclassified.com^
 ||churchyardalludeaccumulate.com^
-||churci.com^
 ||churnedflames.top^
 ||churop.com^
 ||chutneegeckoid.life^
@@ -10884,7 +10873,6 @@
 ||connectad.io^
 ||connectignite.com^
 ||connectingdoll.com^
-||connectingresort.com^
 ||connectionsdivide.com^
 ||connectreadoasis.com^
 ||connecttoday.eu^
@@ -11602,7 +11590,6 @@
 ||crudequeenrome.com^
 ||cruiserx.net^
 ||cruisetitleclosed.com^
-||crumbledatabasesmeasure.com^
 ||crumblerefunddiana.com^
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
@@ -13585,7 +13572,6 @@
 ||desirelibel.com^
 ||desiremolecule.com^
 ||deskfrontfreely.com^
-||desktopnotificationshub.com^
 ||deslatiosan.com^
 ||deslimepitier.top^
 ||despairrim.com^
@@ -13838,7 +13824,6 @@
 ||dikypkxancrqrn.xyz^
 ||dilatenine.com^
 ||dilateriotcosmetic.com^
-||dilatesdubbers.com^
 ||dilidd.com^
 ||dilip-xko.com^
 ||dilruwha.net^
@@ -13990,7 +13975,6 @@
 ||dishesha.net^
 ||dishoneststuff.pro^
 ||dishonourfondness.com^
-||dishwaterfloodinginvisible.com^
 ||disillusionromeearlobe.com^
 ||disingenuousdismissed.com^
 ||disingenuousfortunately.com^
@@ -14749,7 +14733,6 @@
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsas.danawa.com^
-||dsaxuytppkc.xyz^
 ||dsb.yahoo.co.jp^
 ||dsb6jelx4yhln.cloudfront.net^
 ||dsbfpt.xyz^
@@ -15903,8 +15886,6 @@
 ||epu.sh^
 ||epushclick.com^
 ||eputysolomon.com^
-||epvusxjbpodbh.com^
-||epwefjppare.com^
 ||epxfjcb.xyz^
 ||epxprfk.xyz^
 ||eq-beacon.stream.co.jp^
@@ -17532,7 +17513,6 @@
 ||fluingdulotic.com^
 ||flukepopped.com^
 ||flumesheroes.top^
-||flunkeycaptor.guru^
 ||fluqualificationlarge.com^
 ||flurry.cachefly.net^
 ||flurry.com^
@@ -18374,7 +18354,6 @@
 ||gateway.foresee.com^
 ||gateway.ttpsdk.info^
 ||gatewaydissolvedexemplify.com^
-||gatewayimpossibilitypursue.com^
 ||gather.donga.com^
 ||gatherjames.com^
 ||gatols.com^
@@ -18466,7 +18445,6 @@
 ||geiouifksh.xyz^
 ||geiybze.com^
 ||gejusherstertithap.info^
-||gekko.spiceworks.com^
 ||geknzqfx.com^
 ||gelatinelighter.com^
 ||gelhp.com^
@@ -18633,6 +18611,7 @@
 ||gevmrjok.com^
 ||gewbafkw.com^
 ||gf.goreplacers.com^
+||gfjn5.xyz^
 ||gfn1.ugap.fr^
 ||gforanythingam.com^
 ||gfpvvwf.xyz^
@@ -19684,7 +19663,6 @@
 ||gyenhpl.com^
 ||gyh1lh20owj.ru^
 ||gyhgcgj.xyz^
-||gyjwkknwanbug.xyz^
 ||gykyec.xyz^
 ||gymdeserves.com^
 ||gynax.com^
@@ -20039,7 +20017,6 @@
 ||hddcode.com^
 ||hddworqbkmsavvh.com^
 ||hdjfeed.top^
-||hdshapvscudndgy.xyz^
 ||hdsrc-a.akamaihd.net^
 ||hdtcode.com^
 ||hdtqyckdijxmtuc.com^
@@ -22243,6 +22220,7 @@
 ||ityonatallco.info^
 ||itzekromom.com^
 ||iumboa.xyz^
+||iummqg.xyz^
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
 ||iupot.com^
@@ -22524,7 +22502,6 @@
 ||jetsowilk.com^
 ||jettrucaprate.top^
 ||jettrujole.com^
-||jetx.info^
 ||jewelbeeperinflection.com^
 ||jewelcampaign.com^
 ||jewelstastesrecovery.com^
@@ -22564,7 +22541,6 @@
 ||jhulubwidas.com^
 ||jhvchv.xyz^
 ||jhxcld.xyz^
-||jhzfwl.cn^
 ||jiaoben.ganji.cn^
 ||jiaoben.jucanw.com^
 ||jiaohezhen.com^
@@ -23644,7 +23620,6 @@
 ||l.tamaliver.jp^
 ||l.tenkomori.tv^
 ||l.ti-da.net^
-||l.traxmag.com^
 ||l.typesquare.com^
 ||l.www.naver.com^
 ||l0-secure.videohub.tv^
@@ -24076,7 +24051,6 @@
 ||letqejcjo.xyz^
 ||letsbegin.online^
 ||letterslamp.online^
-||letterwolves.com^
 ||leucan3thegm6um.com^
 ||leukemianarrow.com^
 ||levajarool.com^
@@ -25108,7 +25082,6 @@
 ||ludied.com^
 ||ludxivsakalg.com^
 ||lufferbathtub.top^
-||luffic.com^
 ||lugai-jbl.com^
 ||lugajxy.com^
 ||luggageflinchdew.com^
@@ -25731,6 +25704,7 @@
 ||matiro.com^
 ||matomo.a1.by^
 ||matomo.aksorn.com^
+||matomo.cloudfront.similarweb.io^
 ||matomo.quan.hoabinh.vn^
 ||matomo.shoppersguide.com.ph^
 ||matomo.similarweb.io^
@@ -25875,7 +25849,6 @@
 ||meaningfullandfallbleat.com^
 ||meantscarlet.com^
 ||meapk.com^
-||meases.com^
 ||measts.com^
 ||measure.chase.com^
 ||measure.pti.com.vn^
@@ -27248,7 +27221,6 @@
 ||mylinkbox.com^
 ||myliveforyoudreder.com^
 ||mylives.xyz^
-||mylorswtubw.com^
 ||mylot.com^
 ||mymahuxv.xyz^
 ||mymomlike.com^
@@ -27965,6 +27937,7 @@
 ||nkbobsj.com^
 ||nkewdzp.com^
 ||nkfinsdg.com^
+||nkfith.xyz^
 ||nkis.nikkei.com^
 ||nkmsite.com^
 ||nkredir.com^
@@ -32944,6 +32917,7 @@
 ||r.z3.fm^
 ||r023m83skv5v.com^
 ||r2d2.aotter.net^
+||r451.jamanetwork.com^
 ||r5.dir.bg^
 ||r5apiliopolyxenes.com^
 ||r5dfwjtb.icu^
@@ -33131,7 +33105,6 @@
 ||rationalizedalton.com^
 ||ratioregarding.com^
 ||rattoninsects.top^
-||ratury.com^
 ||rauceesh.com^
 ||raudoabe.com^
 ||raudoufoay.com^
@@ -35027,7 +35000,6 @@
 ||saas.valuetech.de^
 ||sab.fast.ge^
 ||sabbedgurly.com^
-||saber.srvcs.tumblr.com^
 ||sabergood.com^
 ||sabeteepee.space^
 ||sabianic.com^
@@ -35928,9 +35900,7 @@
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||share-server.com^
 ||shareadspace.com^
-||sharecash.org^
 ||sharedmarriage.com^
-||sharefb.cnnd.vn^
 ||sharegods.com^
 ||sharepointads.com^
 ||shareresults.com^
@@ -36652,6 +36622,7 @@
 ||snailthreatenedinvited.com^
 ||snakeselective.com^
 ||snakilyglebae.com^
+||snalzlb.top^
 ||snammar-jumntal.com^
 ||snap-affairs.com^
 ||snapads.com^
@@ -38669,6 +38640,7 @@
 ||szkzvqs.com^
 ||szn0ehq.icu^
 ||szpjpzi.com^
+||szpzm.cn^
 ||szsbiw.xyz^
 ||t-ak.hulu.com^
 ||t.360.audion.fm^
@@ -39324,7 +39296,6 @@
 ||thalto.com^
 ||thangetsoam.com^
 ||thaninncoos.com^
-||thanksgivingbilliardslight.com^
 ||thanksgivingdelights.com^
 ||thanksgivingdelights.name^
 ||thanksthat.com^
@@ -39774,7 +39745,6 @@
 ||tizermy.net^
 ||tjaard11.xyz^
 ||tjappzvz.xyz^
-||tjclskcamptg.com^
 ||tjfot.com^
 ||tjuhdrm.com^
 ||tjwzyjx.icu^
@@ -40039,16 +40009,12 @@
 ||topsecurity2024.com^
 ||topsexmovs.com^
 ||topsir.com^
-||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
 ||topsummerapps.net^
 ||topswp.com^
 ||toptanfirsati.com^
 ||toptrendyinc.com^
-||topvids.email^
-||topvids.online^
-||topvids.org^
 ||topvids.space^
 ||topvidstore.com^
 ||topviralnewz.com^
@@ -41603,7 +41569,6 @@
 ||umsns.com^
 ||umuotov.com^
 ||un.ginnleunshift.com^
-||un1.lawyernet.cn^
 ||unacceptableclevercapable.com^
 ||unacceptableironicaldrone.com^
 ||unaccustomedchessoldest.com^
@@ -41941,7 +41906,6 @@
 ||uppitypartie.website^
 ||uppons.com^
 ||uppsyduckan.com^
-||upqeudhzf.com^
 ||upregisteelon.com^
 ||uprightmidsummer.com^
 ||uprightsaunagather.com^
@@ -42050,10 +42014,8 @@
 ||useast.datacygnal.io^
 ||usefulcontentsites.com^
 ||usefulcreatebid.com^
-||usefulhall.pro^
 ||usefulhead.com^
 ||usehol.com^
-||usejj.makepolo.cn^
 ||usejj.wangkl.com^
 ||usekahuna.com^
 ||uselnk.com^
@@ -42514,7 +42476,6 @@
 ||vestigeboxesreed.com^
 ||vestparticle.com^
 ||vesuvinaqueity.top^
-||vetdeberg.com^
 ||vevatom.com^
 ||vexacion.com^
 ||vexationworship.com^
@@ -42579,13 +42540,11 @@
 ||vicuna.equity.no^
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
-||vid-caps.online^
 ||vid-clips.space^
 ||vid-for-clips.space^
 ||vid.me^
 ||vid.prettytube.net^
 ||vidalak.com^
-||vidcaps.email^
 ||vidcaps.online^
 ||vidcaps.org^
 ||vidcaps.space^
@@ -42618,7 +42577,6 @@
 ||videostats.kakao.com^
 ||videosvc.ezoic.com^
 ||videosworks.com^
-||vidforclips.info^
 ||vidforclips.mom^
 ||vidforclips.net^
 ||vidforclips.space^
@@ -43103,6 +43061,7 @@
 ||vuuwd.com^
 ||vuvacu.xyz^
 ||vuvcroguwtuk.com^
+||vuvnix.icu^
 ||vuvoti.uno^
 ||vuvoti.xyz^
 ||vuvxpf.xyz^
@@ -43332,7 +43291,6 @@
 ||watchmanyachtmatch.com^
 ||watchmarinerflint.com^
 ||watchmytopapp.top^
-||watchnewpics.space^
 ||watchnewvids.space^
 ||watchthistop.net^
 ||watchtopapps.com^
@@ -43448,7 +43406,6 @@
 ||web.informer.com^
 ||web0.eu^
 ||web2.deja.com^
-||web4023.top^
 ||webads.co.nz^
 ||webads.nl^
 ||webadserver.net^
@@ -44967,6 +44924,7 @@
 ||xrdqdd.xyz^
 ||xrkyqq.com^
 ||xrlkvghzi.com^
+||xrrxodz.xyz^
 ||xruolsogwsi.com^
 ||xs.odesschemes.com^
 ||xs213.javgg.club^
@@ -45007,7 +44965,6 @@
 ||xuwfmhh.icu^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
-||xvbvpizetpts.com^
 ||xveenk.com^
 ||xvgrszkg.xyz^
 ||xvideos00.sbs^
@@ -45276,7 +45233,6 @@
 ||ym-a.cc^
 ||ym8p.net^
 ||ymdxl.com^
-||ymniqh.icu^
 ||ymprove.gmx.net^
 ||ymprove.web.de^
 ||ymtracking.com^
@@ -45385,6 +45341,7 @@
 ||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
 ||yqeuu.com^
+||yqlxkzs.cn^
 ||yqlxwb.icu^
 ||yqmxfz.com^
 ||yqragd.com^
