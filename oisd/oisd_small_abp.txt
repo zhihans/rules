@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202404080006
+# Version: 202404080306
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
-# Entries: 45747
-# Last modified: 2024-04-08T00:06:36+0000
+# Entries: 45753
+# Last modified: 2024-04-08T03:06:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,01jud3v55z.com
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,0265331.com
 DOMAIN-SUFFIX,02aa19117f396e9.com
+DOMAIN-SUFFIX,0322cfmtl.cc
 DOMAIN-SUFFIX,03e.info
 DOMAIN-SUFFIX,03ed9035a0801f.com
 DOMAIN-SUFFIX,03p.info
@@ -1811,7 +1812,6 @@ DOMAIN-SUFFIX,ad.infoseek.com
 DOMAIN-SUFFIX,ad.inter-edu.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.iplayer.org
-DOMAIN-SUFFIX,ad.itweb.co.za
 DOMAIN-SUFFIX,ad.jamster.co.uk
 DOMAIN-SUFFIX,ad.jetsoftware.com
 DOMAIN-SUFFIX,ad.jeune-independant.net
@@ -13093,6 +13093,7 @@ DOMAIN-SUFFIX,dbfukofby5ycr.cloudfront.net
 DOMAIN-SUFFIX,dbfv8ylr8ykfg.cloudfront.net
 DOMAIN-SUFFIX,dbizrrslifc.com
 DOMAIN-SUFFIX,dblbkinsuswpr.com
+DOMAIN-SUFFIX,dblijd.xyz
 DOMAIN-SUFFIX,dbnwlp.xyz
 DOMAIN-SUFFIX,dbpxivi.xyz
 DOMAIN-SUFFIX,dbtbfsf.com
@@ -19565,6 +19566,7 @@ DOMAIN-SUFFIX,gutterscaldlandslide.com
 DOMAIN-SUFFIX,gutteryrhachi.com
 DOMAIN-SUFFIX,guttiequashey.digital
 DOMAIN-SUFFIX,guwait.com
+DOMAIN-SUFFIX,guwohvw.icu
 DOMAIN-SUFFIX,guxedsuba.com
 DOMAIN-SUFFIX,guxiezhuang.top
 DOMAIN-SUFFIX,guysfair.com
@@ -26372,6 +26374,7 @@ DOMAIN-SUFFIX,ml314.com
 DOMAIN-SUFFIX,mlatrmae.net
 DOMAIN-SUFFIX,mlb.did.ijinshan.com
 DOMAIN-SUFFIX,mlbanners.misrlinks.com
+DOMAIN-SUFFIX,mldzwmt.xyz
 DOMAIN-SUFFIX,mlegyu.xyz
 DOMAIN-SUFFIX,mlhdvjv.xyz
 DOMAIN-SUFFIX,mllight.top
@@ -30947,6 +30950,7 @@ DOMAIN-SUFFIX,pmc1201.com
 DOMAIN-SUFFIX,pmd-vp-aka.canal-plus.com
 DOMAIN-SUFFIX,pmdxwtkmbthlg.com
 DOMAIN-SUFFIX,pmetorealiukze.xyz
+DOMAIN-SUFFIX,pmiskc.cn
 DOMAIN-SUFFIX,pmpubs.com
 DOMAIN-SUFFIX,pmsrvr.com
 DOMAIN-SUFFIX,pmtkhcr.com
@@ -32589,6 +32593,7 @@ DOMAIN-SUFFIX,qmaobrsasck.com
 DOMAIN-SUFFIX,qmxgkgykaex.com
 DOMAIN-SUFFIX,qn-5.com
 DOMAIN-SUFFIX,qnajplxtvz-a.akamaihd.net
+DOMAIN-SUFFIX,qnalzly.top
 DOMAIN-SUFFIX,qnjyeyc.com
 DOMAIN-SUFFIX,qnmtqq.com
 DOMAIN-SUFFIX,qnsr.com
@@ -37230,6 +37235,7 @@ DOMAIN-SUFFIX,srv.dynamicyield.com
 DOMAIN-SUFFIX,srv224.com
 DOMAIN-SUFFIX,srvd2204.com
 DOMAIN-SUFFIX,srvmd30s.com
+DOMAIN-SUFFIX,srwwce.xyz
 DOMAIN-SUFFIX,srwww1.com
 DOMAIN-SUFFIX,srxy.xyz
 DOMAIN-SUFFIX,srzpsbf.xyz
