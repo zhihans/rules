@@ -1,10 +1,10 @@
 # Adblock Plus
-# Version: 202404090606
+# Version: 202404091206
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Adblock Plus Filter List
-# Entries: 45880
-# Last modified: 2024-04-09T06:06:21+0000
+# Entries: 45883
+# Last modified: 2024-04-09T12:06:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4441,6 +4441,7 @@ DOMAIN-SUFFIX,analytics-conomi.line.me
 DOMAIN-SUFFIX,analytics-dataplane.invideo.io
 DOMAIN-SUFFIX,analytics-events.inshorts.com
 DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
+DOMAIN-SUFFIX,analytics-ingestion.pbpms.de
 DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
 DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
 DOMAIN-SUFFIX,analytics-ingress.bitmovin.com
@@ -4998,6 +4999,7 @@ DOMAIN-SUFFIX,anythingamg.org
 DOMAIN-SUFFIX,anytimesand.com
 DOMAIN-SUFFIX,anywaybreeches.com
 DOMAIN-SUFFIX,anywaysreives.com
+DOMAIN-SUFFIX,aoakss.com
 DOMAIN-SUFFIX,aoalmfwinbsstec23.com
 DOMAIN-SUFFIX,aoihaizo.xyz
 DOMAIN-SUFFIX,aojeet.icu
@@ -5735,7 +5737,6 @@ DOMAIN-SUFFIX,astogepian.com
 DOMAIN-SUFFIX,astonishingscold.com
 DOMAIN-SUFFIX,astonishmentfuneral.com
 DOMAIN-SUFFIX,astra9dlya10.com
-DOMAIN-SUFFIX,astral.nicovideo.jp
 DOMAIN-SUFFIX,astrandconifer.com
 DOMAIN-SUFFIX,astronomycrawlingcol.com
 DOMAIN-SUFFIX,astronomytesting.com
@@ -9753,6 +9754,7 @@ DOMAIN-SUFFIX,chicken.redbrushart.com
 DOMAIN-SUFFIX,chicken.tjsoler.dev
 DOMAIN-SUFFIX,chicken.zwei.haus
 DOMAIN-SUFFIX,chicmifi.com
+DOMAIN-SUFFIX,chicoamseque.net
 DOMAIN-SUFFIX,chidir.com
 DOMAIN-SUFFIX,chidsimp.com
 DOMAIN-SUFFIX,chieldsaine.com
@@ -27038,7 +27040,6 @@ DOMAIN-SUFFIX,mumintend.com
 DOMAIN-SUFFIX,mummerychindi.digital
 DOMAIN-SUFFIX,mummydiverseprovided.com
 DOMAIN-SUFFIX,munchkin.marketo.net
-DOMAIN-SUFFIX,mungfali.com
 DOMAIN-SUFFIX,munilf.com
 DOMAIN-SUFFIX,munpracticalwh.info
 DOMAIN-SUFFIX,munsterduke.com
@@ -34120,6 +34121,7 @@ DOMAIN-SUFFIX,rlog-api.under9.co
 DOMAIN-SUFFIX,rlog.9gag.com
 DOMAIN-SUFFIX,rlomivunesqal.com
 DOMAIN-SUFFIX,rlornextthefirean.com
+DOMAIN-SUFFIX,rlxhbff.cn
 DOMAIN-SUFFIX,rmads.msn.com
 DOMAIN-SUFFIX,rmagugarmk.com
 DOMAIN-SUFFIX,rmanentsyshru.com
@@ -45107,6 +45109,7 @@ DOMAIN-SUFFIX,yczrgigyspm.com
 DOMAIN-SUFFIX,ydazjxso.xyz
 DOMAIN-SUFFIX,yddbysa.xyz
 DOMAIN-SUFFIX,yddjmpjo.xyz
+DOMAIN-SUFFIX,yddrqwq.xyz
 DOMAIN-SUFFIX,ydenknowled.com
 DOMAIN-SUFFIX,ydevelelasticals.info
 DOMAIN-SUFFIX,ydfavbj.com
