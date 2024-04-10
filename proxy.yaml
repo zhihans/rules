@@ -6,12 +6,15 @@ payload:
   - DOMAIN-SUFFIX,nix-on-droid.unboiled.info
 
 # 机场
-  - DOMAIN,wujielink.xyz
+  - DOMAIN-SUFFIX,wujielink.xyz
+  - DOMAIN-SUFFIX,wujielink.com
+  - DOMAIN-SUFFIX,xn--rgv465a.xyz
+  - DOMAIN-SUFFIX,xn--9kq018co2k.xyz
 
 # clash ui
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
-  - DOMAIN,yacd.metacubex.one
+  - DOMAIN-SUFFIX,metacubex.one
 
 # 官网
   - DOMAIN-SUFFIX,gofrp.org
@@ -31,6 +34,7 @@ payload:
 # 工具网站
   - DOMAIN-SUFFIX,picrew.me
   - DOMAIN-SUFFIX,saashub.com
+  - DOMAIN-SUFFIX,v2rayse.com
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
@@ -96,3 +100,6 @@ payload:
   - DOMAIN-SUFFIX,singular.net
 # androee
   - DOMAIN-SUFFIX,androeed.ru
+# youtube 
+  - DOMAIN-SUFFIX,revanced.app
+  - DOMAIN-SUFFIX,ajay.app
