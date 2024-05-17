@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "log.madrabbit.eu.org",
+        "cn.baozimh.com",
+        "cf-pages-18w.pages.dev"
+      ],
+      "domain_suffix": [
+        "ip.sb",
+        "jamcz.com",
+        "oraclecloud.com",
+        "asnil.eu.org"
+      ]
+    }
+  ],
+  "version": 1
+}

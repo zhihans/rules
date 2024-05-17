@@ -26,4 +26,26 @@ jobs:
           cd cdn/ && chmod +x update.sh && bash update.sh && cd ..
           cd oisd/ && chmod +x update.sh && bash update.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Check Git Status
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Git仓库有以下更改："
+            git diff --name-status
+            echo "changes=yes" >> $GITHUB_ENV
+          else
+            echo "Git仓库没有未提交的更改，跳过后续步骤。"
+            echo "changes=no" >> $GITHUB_ENV
+          fi
+
+      - name: Git Push
+        if: env.changes == 'yes'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "$(TZ=Asia/Shanghai date +"%Y-%m-%d %H:%M:%S")"
+          git branch -D main
+          git branch -m main
+          git push -f "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" main

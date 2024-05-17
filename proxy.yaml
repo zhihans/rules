@@ -4,6 +4,7 @@ payload:
   # - DOMAIN,miuiver.com
   - DOMAIN-SUFFIX,unlock.media
   - DOMAIN-SUFFIX,nix-on-droid.unboiled.info
+  - DOMAIN,docker.xiaoya.pro
 
 # 机场
   - DOMAIN-SUFFIX,wujielink.xyz
@@ -31,10 +32,13 @@ payload:
   - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN,qinglong.ukenn.top
+  - DOMAIN,vercara.com
+  - DOMAIN,controld.com
 # 工具网站
   - DOMAIN-SUFFIX,picrew.me
   - DOMAIN-SUFFIX,saashub.com
   - DOMAIN-SUFFIX,v2rayse.com
+  - DOMAIN-SUFFIX,chat.lmsys.org
 
 # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
@@ -46,12 +50,18 @@ payload:
   - DOMAIN-SUFFIX,bangumi.moe
   - DOMAIN-SUFFIX,miobt.com
   - DOMAIN-SUFFIX,36dm.club
+  - DOMAIN-SUFFIX,mikanani.me
 # 小说
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
   - DOMAIN-SUFFIX,69shu.pro
+  - DOMAIN-SUFFIX,69shu.top
+  - DOMAIN-SUFFIX,69shuba.pro
+  - DOMAIN-KEYWORD,69shu
+
 # APP
 #  - DOMAIN-SUFFIX,rikkati.today
+  - DOMAIN-SUFFIX,green-android.org
 
 # 博客
   - DOMAIN-SUFFIX,ivonblog.com
@@ -100,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,singular.net
 # androee
   - DOMAIN-SUFFIX,androeed.ru
+  - DOMAIN-SUFFIX,rutracker.org
 # youtube 
   - DOMAIN-SUFFIX,revanced.app
   - DOMAIN-SUFFIX,ajay.app
