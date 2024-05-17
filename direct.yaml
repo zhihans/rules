@@ -1,0 +1,18 @@
+payload:
+
+# 必要直连域名
+# api
+  - DOMAIN,log.madrabbit.eu.org
+  - DOMAIN-SUFFIX,ip.sb
+
+# 网站
+  - DOMAIN-SUFFIX,jamcz.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+
+# 漫画
+  - DOMAIN,cn.baozimh.com
+
+# 下载
+  # - AND,((DOMAIN-SUFFIX,asnil.eu.org),(DST-PORT,80))
+  - DOMAIN-SUFFIX,asnil.eu.org
+  - DOMAIN,cf-pages-18w.pages.dev

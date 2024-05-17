@@ -1,0 +1,116 @@
+payload:
+
+# 调试
+  # - DOMAIN,miuiver.com
+  - DOMAIN-SUFFIX,unlock.media
+  - DOMAIN-SUFFIX,nix-on-droid.unboiled.info
+  - DOMAIN,docker.xiaoya.pro
+
+# 机场
+  - DOMAIN-SUFFIX,wujielink.xyz
+  - DOMAIN-SUFFIX,wujielink.com
+  - DOMAIN-SUFFIX,xn--rgv465a.xyz
+  - DOMAIN-SUFFIX,xn--9kq018co2k.xyz
+
+# clash ui
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,metacubex.one
+
+# 官网
+  - DOMAIN-SUFFIX,gofrp.org
+  - DOMAIN-SUFFIX,lsposed.org
+  - DOMAIN-SUFFIX,fishshell.com
+  - DOMAIN-SUFFIX,curl.se
+  - DOMAIN-SUFFIX,opendns.com
+  - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,freedownloadmanager.org
+  - DOMAIN-SUFFIX,software.es.net
+  - DOMAIN-SUFFIX,ppui.site
+  - DOMAIN-SUFFIX,pling.com
+  - DOMAIN-SUFFIX,opencode.net
+  - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
+  - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN,qinglong.ukenn.top
+  - DOMAIN,vercara.com
+  - DOMAIN,controld.com
+# 工具网站
+  - DOMAIN-SUFFIX,picrew.me
+  - DOMAIN-SUFFIX,saashub.com
+  - DOMAIN-SUFFIX,v2rayse.com
+  - DOMAIN-SUFFIX,chat.lmsys.org
+
+# 壁纸
+  - DOMAIN-SUFFIX,wallhaven.cc
+# 漫画
+  - DOMAIN,www.baozimh.com
+# 视频
+  - DOMAIN-SUFFIX,giphy.com
+  - DOMAIN-SUFFIX,acg.rip
+  - DOMAIN-SUFFIX,bangumi.moe
+  - DOMAIN-SUFFIX,miobt.com
+  - DOMAIN-SUFFIX,36dm.club
+  - DOMAIN-SUFFIX,mikanani.me
+# 小说
+  - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,69xinshu.com
+  - DOMAIN-SUFFIX,69shu.pro
+  - DOMAIN-SUFFIX,69shu.top
+  - DOMAIN-SUFFIX,69shuba.pro
+  - DOMAIN-KEYWORD,69shu
+
+# APP
+#  - DOMAIN-SUFFIX,rikkati.today
+  - DOMAIN-SUFFIX,green-android.org
+
+# 博客
+  - DOMAIN-SUFFIX,ivonblog.com
+  - DOMAIN-SUFFIX,idev.dev
+  - DOMAIN-SUFFIX,pianshen.com
+  - DOMAIN-SUFFIX,medpartner.club
+  - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-SUFFIX,v2raya.org
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,codeyarns.com
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,madoucun.com
+  - DOMAIN-SUFFIX,nya.one
+  - DOMAIN-SUFFIX,vpsxb.net
+  - DOMAIN-SUFFIX,yugogo.xyz
+  - DOMAIN-SUFFIX,clash-gaming.com
+# 论坛
+  - DOMAIN-SUFFIX,ffqla.net
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,8world.com
+  - DOMAIN-SUFFIX,machbbs.com
+  # - DOMAIN-SUFFIX,kejiwanjia.net
+  # - DOMAIN-SUFFIX,summer-plus.net
+
+# Rockmods
+  - DOMAIN-SUFFIX,rockmods.net
+  - DOMAIN-SUFFIX,apkadmin.com
+  - DOMAIN-SUFFIX,file.garden
+  - DOMAIN-SUFFIX,devuploads.com
+
+# radxa
+  - DOMAIN-SUFFIX,radxa.com
+  - DOMAIN-SUFFIX,radxa.co
+
+# speedtest.net
+  - DOMAIN,b.cdnst.net
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,gslnetworks.com
+# oisd
+  - DOMAIN-SUFFIX,oisd.nl
+# subway surf
+  - DOMAIN-SUFFIX,sybo.net
+  - DOMAIN-SUFFIX,singular.net
+# androee
+  - DOMAIN-SUFFIX,androeed.ru
+  - DOMAIN-SUFFIX,rutracker.org
+# youtube 
+  - DOMAIN-SUFFIX,revanced.app
+  - DOMAIN-SUFFIX,ajay.app
