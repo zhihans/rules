@@ -52,11 +52,7 @@ payload:
   - DOMAIN-SUFFIX,36dm.club
   - DOMAIN-SUFFIX,mikanani.me
 # 小说
-  - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,69xinshu.com
-  - DOMAIN-SUFFIX,69shu.pro
-  - DOMAIN-SUFFIX,69shu.top
-  - DOMAIN-SUFFIX,69shuba.pro
   - DOMAIN-KEYWORD,69shu
 
 # APP

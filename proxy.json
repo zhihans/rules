@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -10,9 +11,6 @@
         "controld.com",
         "www.baozimh.com",
         "b.cdnst.net"
-      ],
-      "domain_keyword": [
-        "69shu"
       ],
       "domain_suffix": [
         "unlock.media",
@@ -46,11 +44,7 @@
         "miobt.com",
         "36dm.club",
         "mikanani.me",
-        "69shuba.com",
         "69xinshu.com",
-        "69shu.pro",
-        "69shu.top",
-        "69shuba.pro",
         "green-android.org",
         "ivonblog.com",
         "idev.dev",
@@ -88,8 +82,8 @@
         "rutracker.org",
         "revanced.app",
         "ajay.app"
-      ]
+      ],
+      "domain_keyword": "69shu"
     }
-  ],
-  "version": 1
+  ]
 }

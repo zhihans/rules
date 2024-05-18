@@ -32,7 +32,7 @@ for input_file in "$@"; do
     output_file="${input_file%.yaml}.json"
     transform_rules && \
     sing-box rule-set format "$output_file" -w && \
-    echo "Transformation complete for $input_file. JSON file written to $output_file"
+    echo "$input_file ==>> $output_file"
 done
 
 
