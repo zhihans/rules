@@ -1,0 +1,64 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update data auto
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */4 * * *"
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check tools environment
+        run: |
+          for file in tools/*; do
+              filename=$(basename "$file")
+              command -v $filename &> /dev/null || { cp ./tools/$filename /usr/local/bin/ && chmod +x /usr/local/bin/$filename; }
+          done
+
+      - name: Run update scripts
+        run: |
+          git pull
+          current_dir=$(pwd)
+          for dir in "$current_dir"/*/; do
+              if [ -f "$dir/update.sh" ]; then
+                  echo "检测到更新脚本 $dir"
+                  (cd "$dir" && bash update.sh)
+              fi
+          done
+          echo "脚本执行完成！"
+
+      - name: Check Git Status
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Git仓库有以下更改："
+            git diff --name-status
+            echo "changes=yes" >> $GITHUB_ENV
+          else
+            echo "Git仓库没有未提交的更改，跳过后续步骤。"
+            echo "changes=no" >> $GITHUB_ENV
+          fi
+
+      - name: Git Push
+        if: env.changes == 'yes'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "$(TZ=Asia/Shanghai date +"%Y-%m-%d %H:%M:%S")"
+          git branch -D master
+          git branch -m master
+          git push -f "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" master
